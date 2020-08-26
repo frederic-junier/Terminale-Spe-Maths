@@ -14,4 +14,4 @@ Documents pour ma classe de Terminale Spécialité Mathémtiques
 
 ## Questions flash
 
-- QCM de révisions de première  sur les suites : <https://link.dgpad.net/T2dF>
+- QCM de révisions de première  sur les suites : <https://link.dgpad.net/EfSY>
