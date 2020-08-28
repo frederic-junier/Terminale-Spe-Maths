@@ -15,3 +15,6 @@ Documents pour ma classe de Terminale Spécialité Mathémtiques
 ## Questions flash
 
 - QCM de révisions de première  sur les suites : <https://link.dgpad.net/EfSY>
+- QCM de révisions de première  sur la dérivation : <https://link.dgpad.net/yFGz>
+- QCM de révisions de première  sur l'exponentielle : <https://link.dgpad.net/NdD6>
+- QCM de révisions de première  sur les probabilités: <https://link.dgpad.net/t2zx>
