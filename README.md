@@ -21,7 +21,7 @@ Documents pour ma classe de Terminale Spécialité Mathémtiques
 
 ## Grand oral :
 
-# Sitographie :
+### Sitographie :
 
 * Le site [Images des mathématiques](http://images.math.cnrs.fr/)
 * Le portail [Eduscol des mathématiques](https://eduscol.education.fr/maths/)
