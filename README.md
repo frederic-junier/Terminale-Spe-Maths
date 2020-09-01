@@ -27,3 +27,8 @@ Documents pour ma classe de Terminale Spécialité Mathémtiques
 * Le portail [Eduscol des mathématiques](https://eduscol.education.fr/maths/)
 * Une chaîne YouTube. Des vidéos de vulgarisation mathématique toujours illustrées par des animations fort bien faites par leur créateur Grant Sanderson, qui a étudié les maths à Stanford et qui, après avoir été ingénieur en data sciences, est revenu à ses premières amours avec la chaîne [3blue1Brown](https://www.3blue1brown.com/). 
 On pourra pointer la vidéo sur la modélisation de la propagation du Coronavirus, très claire et à la portée des lycéens. 
+
+
+### Des idées :
+
+* Modélisation d'une épidémie : un [podcast](https://www.franceculture.fr/emissions/la-methode-scientifique/la-methode-scientifique-emission-du-mercredi-27-mai-2020)
