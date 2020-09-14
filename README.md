@@ -17,6 +17,7 @@ Documents pour ma classe de Terminale Spécialité Mathémtiques
 - QCM de révisions de première  sur la dérivation : <https://link.dgpad.net/yFGz>
 - QCM de révisions de première  sur l'exponentielle : <https://link.dgpad.net/NdD6>
 - QCM de révisions de première  sur les probabilités: <https://link.dgpad.net/t2zx>
+- QCM sur les règles opératoires de limites: <https://link.dgpad.net/3bGH>
 
 
 ## Grand oral :
