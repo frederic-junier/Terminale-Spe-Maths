@@ -39,3 +39,5 @@ On pourra pointer la vidéo sur la modélisation de la propagation du Coronaviru
 ### Des idées :
 
 * Modélisation d'une épidémie : un [podcast](https://www.franceculture.fr/emissions/la-methode-scientifique/la-methode-scientifique-emission-du-mercredi-27-mai-2020)
+* Suites de Fibonacci :
+ * avec les L-systèmes de Lindenmaier
