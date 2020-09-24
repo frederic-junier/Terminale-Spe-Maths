@@ -30,8 +30,14 @@ Documents pour ma classe de Terminale Spécialité Mathémtiques
 * Une chaîne YouTube. Des vidéos de vulgarisation mathématique toujours illustrées par des animations fort bien faites par leur créateur Grant Sanderson, qui a étudié les maths à Stanford et qui, après avoir été ingénieur en data sciences, est revenu à ses premières amours avec la chaîne [3blue1Brown](https://www.3blue1brown.com/). 
 On pourra pointer la vidéo sur la modélisation de la propagation du Coronavirus, très claire et à la portée des lycéens. 
 * Le site du livre [Le Guide du Grand Oral](https://grand-oral.lerobert.com/9782321015383) de Sthéphane de Freitas, créateur de la méthode "Porter sa voix", fondateur du concours d'éloquence qui a donné lieu au film "A voix haute". Des ressources méthodologiques et par disciplines : exempel en mathématiques <https://grand-oral.lerobert.com/partage/a/2032389/chapitre-les-ressources-numeriques-pour-les-mathematiques>
+* La plateforme de l'académie de Lyon dédiée à la [culture scientifique](http://culture-scientifique-technique.enseigne.ac-lyon.fr/spip/).
 
+### Des videos en ligne 
+
+* [Conférence de Gérard Berry sur la révolution informatique dans les sciences](https://www.college-de-france.fr/site/gerard-berry/course-2015-01-28-16h00.htm)
 
 ### Des idées :
 
 * Modélisation d'une épidémie : un [podcast](https://www.franceculture.fr/emissions/la-methode-scientifique/la-methode-scientifique-emission-du-mercredi-27-mai-2020)
+* Suites de Fibonacci :
+  * modèle de croissance des plantes avec les L-systèmes de Lindenmaier (pour expliquer Finobacco dans les plantes)
