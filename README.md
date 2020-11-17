@@ -1,6 +1,6 @@
 # Terminale-Spe-Maths
 
-Documents pour ma classe de Terminale Spécialité Mathémtiques
+Documents pour ma classe de Terminale Spécialité Mathématiques
 
 
 ## Outils
@@ -20,6 +20,13 @@ Documents pour ma classe de Terminale Spécialité Mathémtiques
 - QCM sur les règles opératoires de limites: <https://link.dgpad.net/3bGH>
 - QCM sur les limites de suites usuelles et les règles opératoires de limites : <https://link.dgpad.net/nSEF>
 
+## Épreuves terminales 
+
+Le sujet propose : 
+* trois exercices communs (numérotés 1, 2, 3) portant sur le cœur du programme, notés sur un total de 15 points
+* deux exercices au choix (A, B), notés chacun sur 5 points.  Le candidat doit traiter les trois exercices obligatoires et un des deux exercices au choix. Afin d’éclairer le candidat, le sujet indique, au début dechacun des exercices au choix,les principaux domaines abordés
+
+Référence : <https://eduscol.education.fr/2221/bac-2021>
 
 ## Grand oral :
 
