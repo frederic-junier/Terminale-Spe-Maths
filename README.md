@@ -46,7 +46,7 @@ On pourra pointer la vidéo sur la modélisation de la propagation du Coronaviru
 * [Conférence de Gérard Berry sur la révolution informatique dans les sciences](https://www.college-de-france.fr/site/gerard-berry/course-2015-01-28-16h00.htm)
 * [Conférence de Cédric Villani : "Tout est mathématiques"](https://youtu.be/rLFUnCUyPko):
   * De la recherche fondamentale aux applications inattendues : courbure de Riemmann à la théorie de la relativité et aux GPS, distribution statistique des zéros de fonction zeta de Riemman et niveaux d'énergie des atomes
-  * Formule de Boltzmann, entropie $$=s= k log(w)$$ apprivoiser le hasard (Galton, loi des erreurs de Laplace etc ...)
+  * Formule de Boltzmann, entropie $s= k log(w)$ apprivoiser le hasard (Galton, loi des erreurs de Laplace etc ...)
   
 ### Des idées :
 
