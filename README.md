@@ -25,6 +25,7 @@ Documents pour ma classe de Terminale Spécialité Mathématiques
 Le sujet propose : 
 * trois exercices communs (numérotés 1, 2, 3) portant sur le cœur du programme, notés sur un total de 15 points
 * deux exercices au choix (A, B), notés chacun sur 5 points.  Le candidat doit traiter les trois exercices obligatoires et un des deux exercices au choix. Afin d’éclairer le candidat, le sujet indique, au début dechacun des exercices au choix,les principaux domaines abordés
+* [Sujet zéro publié le 7/12/2020](https://eduscol.education.fr/media/3730/download)
 
 Référence : <https://eduscol.education.fr/2221/bac-2021>
 
