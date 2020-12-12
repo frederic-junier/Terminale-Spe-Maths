@@ -44,6 +44,15 @@ On pourra pointer la vidéo sur la modélisation de la propagation du Coronaviru
 * Le site du livre [Le Guide du Grand Oral](https://grand-oral.lerobert.com/9782321015383) de Sthéphane de Freitas, créateur de la méthode "Porter sa voix", fondateur du concours d'éloquence qui a donné lieu au film "A voix haute". Des ressources méthodologiques et par disciplines : exempel en mathématiques <https://grand-oral.lerobert.com/partage/a/2032389/chapitre-les-ressources-numeriques-pour-les-mathematiques>
 * La plateforme de l'académie de Lyon dédiée à la [culture scientifique](http://culture-scientifique-technique.enseigne.ac-lyon.fr/spip/).
 
+### Bibliographie :
+
+
+* Une liste d'ouvrages de vulgarisation ou de fiction traitant des mathématiques : <http://algorythmes.blogspot.com/2020/11/bibliomaths-cest-mon-litteramath.html>
+* Thème : Mathématiques et anglais :
+  * "Enigmes mathématiques de Lewis Carroll - 72 problèmes pour vos nuits blanches " d'Elizabeth Busser
+  * "Once upon an algorithm" de Martin Erwing
+  * "Computational Fairy Tales" de Jeremy Kubica
+
 ### Des videos en ligne 
 
 * [Conférence de Gérard Berry sur la révolution informatique dans les sciences](https://www.college-de-france.fr/site/gerard-berry/course-2015-01-28-16h00.htm)
