@@ -25,6 +25,7 @@ Documents pour ma classe de Terminale Spécialité Mathématiques
 Le sujet propose : 
 * trois exercices communs (numérotés 1, 2, 3) portant sur le cœur du programme, notés sur un total de 15 points
 * deux exercices au choix (A, B), notés chacun sur 5 points.  Le candidat doit traiter les trois exercices obligatoires et un des deux exercices au choix. Afin d’éclairer le candidat, le sujet indique, au début dechacun des exercices au choix,les principaux domaines abordés
+* [Sujet zéro publié le 7/12/2020](https://eduscol.education.fr/media/3730/download)
 
 Référence : <https://eduscol.education.fr/2221/bac-2021>
 
@@ -42,6 +43,15 @@ On pourra pointer la vidéo sur la modélisation de la propagation du Coronaviru
 * La chaîne You Tube de Mickael Launay <https://www.youtube.com/c/Micmaths/> avec de nombreuses videos à destination des élèves de terminale.
 * Le site du livre [Le Guide du Grand Oral](https://grand-oral.lerobert.com/9782321015383) de Sthéphane de Freitas, créateur de la méthode "Porter sa voix", fondateur du concours d'éloquence qui a donné lieu au film "A voix haute". Des ressources méthodologiques et par disciplines : exempel en mathématiques <https://grand-oral.lerobert.com/partage/a/2032389/chapitre-les-ressources-numeriques-pour-les-mathematiques>
 * La plateforme de l'académie de Lyon dédiée à la [culture scientifique](http://culture-scientifique-technique.enseigne.ac-lyon.fr/spip/).
+
+### Bibliographie :
+
+
+* Une liste d'ouvrages de vulgarisation ou de fiction traitant des mathématiques : <http://algorythmes.blogspot.com/2020/11/bibliomaths-cest-mon-litteramath.html>
+* Thème : Mathématiques et anglais :
+  * "Enigmes mathématiques de Lewis Carroll - 72 problèmes pour vos nuits blanches " d'Elizabeth Busser
+  * "Once upon an algorithm" de Martin Erwing
+  * "Computational Fairy Tales" de Jeremy Kubica
 
 ### Des videos en ligne 
 
