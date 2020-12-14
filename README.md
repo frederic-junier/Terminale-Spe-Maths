@@ -34,8 +34,8 @@ Référence : <https://eduscol.education.fr/2221/bac-2021>
 ### Sitographie :
 
 * Un [document de synthèse d'un IPR de l'académie de Versailles](https://euler.ac-versailles.fr/IMG/pdf/pistes-grand-oral-huet-version-sans_programme.pdf).
-* Le site [Images des mathématiques](http://images.math.cnrs.fr/)
-  * Consulter en particulier la rubrique [Pour aller moins loin](http://images.math.cnrs.fr/-Ressources-pedagogiques-pour-aller-moins-loin-.html)
+* Le site [Images des mathématiques](http://images.math.cnrs.fr/), consulter en particulier la rubrique [Pour aller moins loin](http://images.math.cnrs.fr/-Ressources-pedagogiques-pour-aller-moins-loin-.html) :
+  * Croissances cumulées : <http://images.math.cnrs.fr/La-loi-de-la-croissance-cumulee.html> thèmes logarithmes, suites ....
   * A propos des différentes preuves du théorème de Pythagore : <http://images.math.cnrs.fr/Encore-une-preuve-du-theoreme-de-Pythagore.html>
 * Le portail [Eduscol des mathématiques](https://eduscol.education.fr/maths/)
 * Une chaîne YouTube. Des vidéos de vulgarisation mathématique toujours illustrées par des animations fort bien faites par leur créateur Grant Sanderson, qui a étudié les maths à Stanford et qui, après avoir été ingénieur en data sciences, est revenu à ses premières amours avec la chaîne [3blue1Brown](https://www.3blue1brown.com/). 
@@ -43,6 +43,8 @@ On pourra pointer la vidéo sur la modélisation de la propagation du Coronaviru
 * La chaîne You Tube de Mickael Launay <https://www.youtube.com/c/Micmaths/> avec de nombreuses videos à destination des élèves de terminale.
 * Le site du livre [Le Guide du Grand Oral](https://grand-oral.lerobert.com/9782321015383) de Sthéphane de Freitas, créateur de la méthode "Porter sa voix", fondateur du concours d'éloquence qui a donné lieu au film "A voix haute". Des ressources méthodologiques et par disciplines : exempel en mathématiques <https://grand-oral.lerobert.com/partage/a/2032389/chapitre-les-ressources-numeriques-pour-les-mathematiques>
 * La plateforme de l'académie de Lyon dédiée à la [culture scientifique](http://culture-scientifique-technique.enseigne.ac-lyon.fr/spip/).
+* Arts et mathématiques :
+ * Une galerie en ligne : <http://gallery.bridgesmathart.org/exhibitions/2021-joint-mathematics-meetings>
 
 ### Bibliographie :
 
@@ -70,3 +72,4 @@ On pourra pointer la vidéo sur la modélisation de la propagation du Coronaviru
   * modèle de croissance des plantes avec les L-systèmes de Lindenmaier (pour expliquer Finobacco dans les plantes)
 * La Ficelle, journal sur l'histoire de Lyon,  met à l'honneur dans son numéro d'Octobre,  André Marie Ampère, "où comment états d’âme et génie se marient et font avancer la science". 
 Journal téléchargeable gratuitement depuis le site <http://www.laficelle.com/>
+
