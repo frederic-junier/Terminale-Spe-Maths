@@ -38,6 +38,7 @@ Référence : <https://eduscol.education.fr/2221/bac-2021>
   * Croissances cumulées : <http://images.math.cnrs.fr/La-loi-de-la-croissance-cumulee.html> thèmes logarithmes, suites ....
   * A propos des différentes preuves du théorème de Pythagore : <http://images.math.cnrs.fr/Encore-une-preuve-du-theoreme-de-Pythagore.html>
   * Combinatoire : [Démarrage trompeur](https://images.math.cnrs.fr/+Demarrage-trompeur+)
+  * Loi binomiale, planche de Galton : [La courbe en cloche... transparente](http://images.math.cnrs.fr/La-courbe-en-cloche-transparente.html)
 * Le portail [Eduscol des mathématiques](https://eduscol.education.fr/maths/)
 * Une chaîne YouTube. Des vidéos de vulgarisation mathématique toujours illustrées par des animations fort bien faites par leur créateur Grant Sanderson, qui a étudié les maths à Stanford et qui, après avoir été ingénieur en data sciences, est revenu à ses premières amours avec la chaîne [3blue1Brown](https://www.3blue1brown.com/). 
 On pourra pointer la vidéo sur la modélisation de la propagation du Coronavirus, très claire et à la portée des lycéens. 
