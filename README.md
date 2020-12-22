@@ -11,7 +11,7 @@ Documents pour ma classe de Terminale Spécialité Mathématiques
 * Doceval, exerciseur en ligne : <https://doctools.dgpad.net/>
 
  
-## Questions flash
+## Questions flash / Automatismes
 
 - QCM de révisions de première  sur les suites : <https://link.dgpad.net/EfSY>
 - QCM de révisions de première  sur la dérivation : <https://link.dgpad.net/yFGz>
@@ -19,6 +19,7 @@ Documents pour ma classe de Terminale Spécialité Mathématiques
 - QCM de révisions de première  sur les probabilités: <https://link.dgpad.net/t2zx>
 - QCM sur les règles opératoires de limites: <https://link.dgpad.net/3bGH>
 - QCM sur les limites de suites usuelles et les règles opératoires de limites : <https://link.dgpad.net/nSEF>
+- [Automatismes de terminale 2020/2021](Automatismes/2020-2021/TerminaleAutomatismes-2020-2021.pdf)
 
 ## Épreuves terminales 
 
