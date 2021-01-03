@@ -11,7 +11,7 @@ Documents pour ma classe de Terminale Spécialité Mathématiques
 * Doceval, exerciseur en ligne : <https://doctools.dgpad.net/>
 
  
-## Questions flash
+## Questions flash / Automatismes
 
 - QCM de révisions de première  sur les suites : <https://link.dgpad.net/EfSY>
 - QCM de révisions de première  sur la dérivation : <https://link.dgpad.net/yFGz>
@@ -19,6 +19,7 @@ Documents pour ma classe de Terminale Spécialité Mathématiques
 - QCM de révisions de première  sur les probabilités: <https://link.dgpad.net/t2zx>
 - QCM sur les règles opératoires de limites: <https://link.dgpad.net/3bGH>
 - QCM sur les limites de suites usuelles et les règles opératoires de limites : <https://link.dgpad.net/nSEF>
+- [Automatismes de terminale 2020/2021](Automatismes/2020-2021/TerminaleAutomatismes-2020-2021.pdf)
 
 ## Épreuves terminales 
 
@@ -43,6 +44,7 @@ Référence : <https://eduscol.education.fr/2221/bac-2021>
 * Une chaîne YouTube. Des vidéos de vulgarisation mathématique toujours illustrées par des animations fort bien faites par leur créateur Grant Sanderson, qui a étudié les maths à Stanford et qui, après avoir été ingénieur en data sciences, est revenu à ses premières amours avec la chaîne [3blue1Brown](https://www.3blue1brown.com/). 
 On pourra pointer la vidéo sur la modélisation de la propagation du Coronavirus, très claire et à la portée des lycéens. 
 * La chaîne You Tube de Mickael Launay <https://www.youtube.com/c/Micmaths/> avec de nombreuses videos à destination des élèves de terminale.
+* La chaîne You Tube Maths en Tête comporte de nombreuses videos sur l'histoire des mathématiques <https://www.youtube.com/c/AlexandreMorgan/featured>
 * Le site du livre [Le Guide du Grand Oral](https://grand-oral.lerobert.com/9782321015383) de Sthéphane de Freitas, créateur de la méthode "Porter sa voix", fondateur du concours d'éloquence qui a donné lieu au film "A voix haute". Des ressources méthodologiques et par disciplines : exempel en mathématiques <https://grand-oral.lerobert.com/partage/a/2032389/chapitre-les-ressources-numeriques-pour-les-mathematiques>
 * La plateforme de l'académie de Lyon dédiée à la [culture scientifique](http://culture-scientifique-technique.enseigne.ac-lyon.fr/spip/).
 * Arts et mathématiques :
