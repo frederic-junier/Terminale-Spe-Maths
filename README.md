@@ -73,7 +73,9 @@ On pourra pointer la vidéo sur la modélisation de la propagation du Coronaviru
   
 ### Des idées :
 
-* Modélisation d'une épidémie : un [podcast](https://www.franceculture.fr/emissions/la-methode-scientifique/la-methode-scientifique-emission-du-mercredi-27-mai-2020)
+* Modélisation d'une épidémie :
+  * un [podcast](https://www.franceculture.fr/emissions/la-methode-scientifique/la-methode-scientifique-emission-du-mercredi-27-mai-2020)
+  * Modélisation du modèle SIR avec Geogebra (Christina Mercat IREM de Lyon) <https://www.geogebra.org/m/ztf3fqce>
 * Suites de Fibonacci :
   * modèle de croissance des plantes avec les L-systèmes de Lindenmaier (pour expliquer Finobacco dans les plantes)
 * La Ficelle, journal sur l'histoire de Lyon,  met à l'honneur dans son numéro d'Octobre,  André Marie Ampère, "où comment états d’âme et génie se marient et font avancer la science". 
