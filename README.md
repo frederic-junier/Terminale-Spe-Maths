@@ -73,6 +73,7 @@ On pourra pointer la vidéo sur la modélisation de la propagation du Coronaviru
   
 ### Des idées :
 
+* Sport : comment prédire le classement final d'un championnat de foot ?  <https://www.statsperform.com/resource/why-2021-could-be-the-year-of-change-in-european-football/>
 * Modélisation d'une épidémie :
   * un [podcast](https://www.franceculture.fr/emissions/la-methode-scientifique/la-methode-scientifique-emission-du-mercredi-27-mai-2020)
   * Modélisation du modèle SIR avec Geogebra (Christina Mercat IREM de Lyon) <https://www.geogebra.org/m/ztf3fqce>
