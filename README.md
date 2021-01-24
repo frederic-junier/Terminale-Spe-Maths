@@ -51,6 +51,10 @@ On pourra pointer la vidéo sur la modélisation de la propagation du Coronaviru
 * La plateforme de l'académie de Lyon dédiée à la [culture scientifique](http://culture-scientifique-technique.enseigne.ac-lyon.fr/spip/).
 * Arts et mathématiques :
  * Une galerie en ligne : <http://gallery.bridgesmathart.org/exhibitions/2021-joint-mathematics-meetings>
+* A propos de la récurrence :
+ * [Feuille d'exercices intéressante du Club de Maths de Nancy](http://depmath-nancy.univ-lorraine.fr/club/docs/1718/170920recurrence.pdf)
+ * [Une autre feuille du Club de Maths de Nancy sur le flocon de Von Koch](http://paestel.fr/sites/default/files/Mat_les_ressources/1%C3%A8re/Atelier%2C%20probl%C3%A8me/mlr-une_introduction_aux_fractales.pdf)
+ * [La page du Club de Maths de Nancy avec tous leurs exercices](http://depmath-nancy.univ-lorraine.fr/club/documents.html)
 
 ### Bibliographie :
 
