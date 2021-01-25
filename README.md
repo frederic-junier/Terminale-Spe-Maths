@@ -36,7 +36,10 @@ Le sujet propose :
 
 ### Sitographie :
 
-* Un [document de synthèse d'un IPR de l'académie de Versailles](https://euler.ac-versailles.fr/IMG/pdf/pistes-grand-oral-huet-version-sans_programme.pdf).
+* Des documents avec une présentation de l'épreuve et des pistes de sujets :
+   * [document de synthèse d'un IPR de l'académie de Versailles](https://euler.ac-versailles.fr/IMG/pdf/pistes-grand-oral-huet-version-sans_programme.pdf)
+   * [encore un document de l'académie de Versailles](GrandOral/oral_maths_euler.pdf)
+   * [document de l'inspection générale de mathématiques](GrandOral/grand_oral_inspection_générale.pdf)
 * Le site [Images des mathématiques](http://images.math.cnrs.fr/), consulter en particulier la rubrique [Pour aller moins loin](http://images.math.cnrs.fr/-Ressources-pedagogiques-pour-aller-moins-loin-.html) :
   * Croissances cumulées : <http://images.math.cnrs.fr/La-loi-de-la-croissance-cumulee.html> thèmes logarithmes, suites ....
   * A propos des différentes preuves du théorème de Pythagore : <http://images.math.cnrs.fr/Encore-une-preuve-du-theoreme-de-Pythagore.html>
