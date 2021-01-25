@@ -36,6 +36,7 @@ Le sujet propose :
 
 ### Sitographie :
 
+* Un document à lire pour mieux comprendre la recherche en mathématiques : [Confrence de Daniel Perrin](GranOral/Daniel_Perrin.pdf) 
 * Des documents avec une présentation de l'épreuve et des pistes de sujets :
    * [document de synthèse d'un IPR de l'académie de Versailles](https://euler.ac-versailles.fr/IMG/pdf/pistes-grand-oral-huet-version-sans_programme.pdf)
    * [encore un document de l'académie de Versailles](GrandOral/oral_maths_euler.pdf)
