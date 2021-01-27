@@ -92,4 +92,5 @@ On pourra pointer la vidéo sur la modélisation de la propagation du Coronaviru
   * modèle de croissance des plantes avec les L-systèmes de Lindenmaier (pour expliquer Finobacci dans les plantes)
 * La Ficelle, journal sur l'histoire de Lyon,  met à l'honneur dans son numéro d'Octobre,  André Marie Ampère, "où comment états d’âme et génie se marient et font avancer la science". 
 Journal téléchargeable gratuitement depuis le site <http://www.laficelle.com/>
+* Fausse preuve : la somme des entiers vaudrait-elle -1/12 ? <http://images.math.cnrs.fr/La-somme-des-entiers.html>
 
