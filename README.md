@@ -49,11 +49,7 @@ Le sujet propose :
   
 * Le site Culture Maths  <https://culturemath.ens.fr/>
 * Le portail [Eduscol des mathématiques](https://eduscol.education.fr/maths/)
-* Une chaîne YouTube. Des vidéos de vulgarisation mathématique toujours illustrées par des animations fort bien faites par leur créateur Grant Sanderson, qui a étudié les maths à Stanford et qui, après avoir été ingénieur en data sciences, est revenu à ses premières amours avec la chaîne [3blue1Brown](https://www.3blue1brown.com/). 
-On pourra pointer la vidéo sur la modélisation de la propagation du Coronavirus, très claire et à la portée des lycéens. 
-* La chaîne You Tube de Mickael Launay <https://www.youtube.com/c/Micmaths/> avec de nombreuses videos à destination des élèves de terminale.
-* La chaîne You Tube Maths en Tête comporte de nombreuses videos sur l'histoire des mathématiques <https://www.youtube.com/c/AlexandreMorgan/featured>
-* Le site VideoMaths du CNRS rassemble de nombreuses videos qui pourraient donner des idées de questions pour le grand oral : <http://video.math.cnrs.fr/> avec souvent des ouvertures sur d'autres disciplines.
+
 * Le site du livre [Le Guide du Grand Oral](https://grand-oral.lerobert.com/9782321015383) de Sthéphane de Freitas, créateur de la méthode "Porter sa voix", fondateur du concours d'éloquence qui a donné lieu au film "A voix haute". Des ressources méthodologiques et par disciplines : exempel en mathématiques <https://grand-oral.lerobert.com/partage/a/2032389/chapitre-les-ressources-numeriques-pour-les-mathematiques>
 * La plateforme de l'académie de Lyon dédiée à la [culture scientifique](http://culture-scientifique-technique.enseigne.ac-lyon.fr/spip/).
 * Arts et mathématiques :
@@ -75,6 +71,11 @@ On pourra pointer la vidéo sur la modélisation de la propagation du Coronaviru
 * Chaînes de videos en ligne :
   * Pour découvrir à travers une petite  approche historique (par des collégiens mais très bien)  : <https://www.youtube.com/channel/UCIUbSRKVVOpWl_xB3soLU1g>
   * Pour approfondir : la chaîne de Mickael Launay <https://www.youtube.com/user/Micmaths>
+  * Une chaîne YouTube. Des vidéos de vulgarisation mathématique toujours illustrées par des animations fort bien faites par leur créateur Grant Sanderson, qui a étudié les maths à Stanford et qui, après avoir été ingénieur en data sciences, est revenu à ses premières amours avec la chaîne [3blue1Brown](https://www.3blue1brown.com/). 
+On pourra pointer la vidéo sur la modélisation de la propagation du Coronavirus, très claire et à la portée des lycéens. 
+  * La chaîne You Tube de Mickael Launay <https://www.youtube.com/c/Micmaths/> avec de nombreuses videos à destination des élèves de terminale.
+  * La chaîne You Tube Maths en Tête comporte de nombreuses videos sur l'histoire des mathématiques <https://www.youtube.com/c/AlexandreMorgan/featured>
+  * Le site VideoMaths du CNRS rassemble de nombreuses videos qui pourraient donner des idées de questions pour le grand oral : <http://video.math.cnrs.fr/> avec souvent des ouvertures sur d'autres disciplines.
 * [Conférence de Cédric Villani : "Tout est mathématiques"](https://youtu.be/rLFUnCUyPko):
   * De la recherche fondamentale aux applications inattendues : courbure de Riemmann à la théorie de la relativité et aux GPS, distribution statistique des zéros de fonction zeta de Riemman et niveaux d'énergie des atomes
   * Formule de Boltzmann, entropie $s= k log(w)$ apprivoiser le hasard (Galton, loi des erreurs de Laplace etc ...)
