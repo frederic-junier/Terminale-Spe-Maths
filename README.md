@@ -103,4 +103,5 @@ Journal téléchargeable gratuitement depuis le site <http://www.laficelle.com/>
   * A propos des différentes preuves du théorème de Pythagore : <http://images.math.cnrs.fr/Encore-une-preuve-du-theoreme-de-Pythagore.html>
   * Combinatoire : [Démarrage trompeur](https://images.math.cnrs.fr/+Demarrage-trompeur+)
   * Loi binomiale, planche de Galton : [La courbe en cloche... transparente](http://images.math.cnrs.fr/La-courbe-en-cloche-transparente.html)
+* A propos des échelles de représentation : linéaire ou logarithmique (échelle de Richter ....), une ressource Geogebra de Christian Mercat <https://www.geogebra.org/m/vgyp3kkq>
 
