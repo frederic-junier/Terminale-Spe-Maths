@@ -93,7 +93,7 @@ On pourra pointer la vidéo sur la modélisation de la propagation du Coronaviru
 Journal téléchargeable gratuitement depuis le site <http://www.laficelle.com/>
 * Fausse preuve : la somme des entiers vaudrait-elle -1/12 ? <http://images.math.cnrs.fr/La-somme-des-entiers.html>
 * Mathématiques et jeux, exemple du 2048. Questions qu'on peut se poser : les tuiles sont toutes des puissances de 2 (preuve par récurrence) ? quelle est la configurationthéorique de fin de jeu ? valeur de la plus grande tuile au 2048 (somme des termes consécutifs d'une suite géométrique, décomposition d'un nombre en base 2) ? Le score maximal ? Probabilité d'atteindre la configuration théorique de fin de jeu ? Quelles stratégies ? Voir <https://www.science4all.org/article/2048-game/>
-* Théorèmes isopérimétriques : quelle forme pour une pizza d'aire donnée si on aime la croût ou si on ne l'aime pas ? <https://culturemath.ens.fr/thematiques/geometrie/les-theoremes-isoperimetriques>
+* Théorèmes isopérimétriques : quelle forme pour une pizza d'aire donnée si on aime la croûte ou si on ne l'aime pas ? <https://culturemath.ens.fr/thematiques/geometrie/les-theoremes-isoperimetriques>
 * A propos de la récurrence :
   * [Feuille d'exercices intéressante du Club de Maths de Nancy](http://depmath-nancy.univ-lorraine.fr/club/docs/1718/170920recurrence.pdf)
   * [Une autre feuille du Club de Maths de Nancy sur le flocon de Von Koch](http://paestel.fr/sites/default/files/Mat_les_ressources/1%C3%A8re/Atelier%2C%20probl%C3%A8me/mlr-une_introduction_aux_fractales.pdf)
