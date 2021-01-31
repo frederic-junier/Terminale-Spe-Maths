@@ -93,4 +93,5 @@ On pourra pointer la vidéo sur la modélisation de la propagation du Coronaviru
 * La Ficelle, journal sur l'histoire de Lyon,  met à l'honneur dans son numéro d'Octobre,  André Marie Ampère, "où comment états d’âme et génie se marient et font avancer la science". 
 Journal téléchargeable gratuitement depuis le site <http://www.laficelle.com/>
 * Fausse preuve : la somme des entiers vaudrait-elle -1/12 ? <http://images.math.cnrs.fr/La-somme-des-entiers.html>
+* Mathématiques et jeux : quelle est la valeur de la plus grande tuile au 2048 ? Le score maximal ? Voir <https://www.science4all.org/article/2048-game/>
 
