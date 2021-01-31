@@ -41,11 +41,13 @@ Le sujet propose :
    * [document de synthèse d'un IPR de l'académie de Versailles](https://euler.ac-versailles.fr/IMG/pdf/pistes-grand-oral-huet-version-sans_programme.pdf)
    * [encore un document de l'académie de Versailles](GrandOral/oral_maths_euler.pdf)
    * [document de l'inspection générale de mathématiques](GrandOral/grand_oral_inspection_générale.pdf)
-* Le site [Images des mathématiques](http://images.math.cnrs.fr/), consulter en particulier la rubrique [Pour aller moins loin](http://images.math.cnrs.fr/-Ressources-pedagogiques-pour-aller-moins-loin-.html) :
+* Le site [Images des mathématiques](http://images.math.cnrs.fr/), consulter en particulier la rubrique [Pour aller moins loin](http://images.math.cnrs.fr/-Ressources-pedagogiques-pour-aller-moins-loin-.html).
   * Croissances cumulées : <http://images.math.cnrs.fr/La-loi-de-la-croissance-cumulee.html> thèmes logarithmes, suites ....
   * A propos des différentes preuves du théorème de Pythagore : <http://images.math.cnrs.fr/Encore-une-preuve-du-theoreme-de-Pythagore.html>
   * Combinatoire : [Démarrage trompeur](https://images.math.cnrs.fr/+Demarrage-trompeur+)
   * Loi binomiale, planche de Galton : [La courbe en cloche... transparente](http://images.math.cnrs.fr/La-courbe-en-cloche-transparente.html)
+  
+* Le site Culture Maths  <https://culturemath.ens.fr/>
 * Le portail [Eduscol des mathématiques](https://eduscol.education.fr/maths/)
 * Une chaîne YouTube. Des vidéos de vulgarisation mathématique toujours illustrées par des animations fort bien faites par leur créateur Grant Sanderson, qui a étudié les maths à Stanford et qui, après avoir été ingénieur en data sciences, est revenu à ses premières amours avec la chaîne [3blue1Brown](https://www.3blue1brown.com/). 
 On pourra pointer la vidéo sur la modélisation de la propagation du Coronavirus, très claire et à la portée des lycéens. 
@@ -56,10 +58,7 @@ On pourra pointer la vidéo sur la modélisation de la propagation du Coronaviru
 * La plateforme de l'académie de Lyon dédiée à la [culture scientifique](http://culture-scientifique-technique.enseigne.ac-lyon.fr/spip/).
 * Arts et mathématiques :
   * Une galerie en ligne : <http://gallery.bridgesmathart.org/exhibitions/2021-joint-mathematics-meetings>
-* A propos de la récurrence :
-  * [Feuille d'exercices intéressante du Club de Maths de Nancy](http://depmath-nancy.univ-lorraine.fr/club/docs/1718/170920recurrence.pdf)
-  * [Une autre feuille du Club de Maths de Nancy sur le flocon de Von Koch](http://paestel.fr/sites/default/files/Mat_les_ressources/1%C3%A8re/Atelier%2C%20probl%C3%A8me/mlr-une_introduction_aux_fractales.pdf)
-  * [La page du Club de Maths de Nancy avec tous leurs exercices](http://depmath-nancy.univ-lorraine.fr/club/documents.html)
+
 
 ### Bibliographie :
 
@@ -95,4 +94,13 @@ Journal téléchargeable gratuitement depuis le site <http://www.laficelle.com/>
 * Fausse preuve : la somme des entiers vaudrait-elle -1/12 ? <http://images.math.cnrs.fr/La-somme-des-entiers.html>
 * Mathématiques et jeux, exemple du 2048. Questions qu'on peut se poser : les tuiles sont toutes des puissances de 2 (preuve par récurrence) ? quelle est la configurationthéorique de fin de jeu ? valeur de la plus grande tuile au 2048 (somme des termes consécutifs d'une suite géométrique, décomposition d'un nombre en base 2) ? Le score maximal ? Probabilité d'atteindre la configuration théorique de fin de jeu ? Quelles stratégies ? Voir <https://www.science4all.org/article/2048-game/>
 * Théorèmes isopérimétriques : quelle forme pour une pizza d'aire donnée si on aime la croût ou si on ne l'aime pas ? <https://culturemath.ens.fr/thematiques/geometrie/les-theoremes-isoperimetriques>
+* A propos de la récurrence :
+  * [Feuille d'exercices intéressante du Club de Maths de Nancy](http://depmath-nancy.univ-lorraine.fr/club/docs/1718/170920recurrence.pdf)
+  * [Une autre feuille du Club de Maths de Nancy sur le flocon de Von Koch](http://paestel.fr/sites/default/files/Mat_les_ressources/1%C3%A8re/Atelier%2C%20probl%C3%A8me/mlr-une_introduction_aux_fractales.pdf)
+  * [La page du Club de Maths de Nancy avec tous leurs exercices](http://depmath-nancy.univ-lorraine.fr/club/documents.html)
+* Sur le site [Images des mathématiques](http://images.math.cnrs.fr/), consulter en particulier la rubrique [Pour aller moins loin](http://images.math.cnrs.fr/-Ressources-pedagogiques-pour-aller-moins-loin-.html).
+  * Croissances cumulées : <http://images.math.cnrs.fr/La-loi-de-la-croissance-cumulee.html> thèmes logarithmes, suites ....
+  * A propos des différentes preuves du théorème de Pythagore : <http://images.math.cnrs.fr/Encore-une-preuve-du-theoreme-de-Pythagore.html>
+  * Combinatoire : [Démarrage trompeur](https://images.math.cnrs.fr/+Demarrage-trompeur+)
+  * Loi binomiale, planche de Galton : [La courbe en cloche... transparente](http://images.math.cnrs.fr/La-courbe-en-cloche-transparente.html)
 
