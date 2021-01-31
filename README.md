@@ -77,6 +77,7 @@ On pourra pointer la vidéo sur la modélisation de la propagation du Coronaviru
   * La chaîne You Tube Maths en Tête comporte de nombreuses videos sur l'histoire des mathématiques <https://www.youtube.com/c/AlexandreMorgan/featured>
   * Le site VideoMaths du CNRS rassemble de nombreuses videos qui pourraient donner des idées de questions pour le grand oral : <http://video.math.cnrs.fr/> avec souvent des ouvertures sur d'autres disciplines :
     * Couplage Maths/Physique, modélisation de la propagation de la chaleur avec les carrés magiques de Dirichlet, principe du maximum et preuve d'unicité, questions que peut se pose un mathématicien, théorème de convergence monotone : _Existe-t-il une solution ? Est-elle unique ? Peut-on la construire ?_ :  [Video Audimaths](https://youtu.be/2oq1UDpqEGQ)
+    * La format de papier A4 (suites, second degré) :[Video Audimaths](https://youtu.be/sgsJuqaiCCM)
   
 * [Conférence de Cédric Villani : "Tout est mathématiques"](https://youtu.be/rLFUnCUyPko):
   * De la recherche fondamentale aux applications inattendues : courbure de Riemmann à la théorie de la relativité et aux GPS, distribution statistique des zéros de fonction zeta de Riemman et niveaux d'énergie des atomes
