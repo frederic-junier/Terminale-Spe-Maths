@@ -1,0 +1,749 @@
+\documentclass[11pt, xcolor=svgnames, hyperref={urlcolor=red,% Liens vers une page web
+            linkcolor=blue, %Liens internes au document
+            colorlinks=true}]{beamer}  
+
+
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{lmodern} % Smooth fonts : always use it
+
+\usepackage[french]{babel}
+
+%%%%%%% Page de titre %%%%%%%%%%
+
+\title{Présentation du grand oral}\subtitle{Terminale spécialité}
+\author[]{Frédéric Junier \thanks{\url{https://frederic-junier.org/} }}
+\institute[Lycée du Parc]{Lycée du Parc, Lyon}
+\date[]{}
+
+%%%%%%Environnements et symboles mathématiques%%%%
+
+%%%Tableaux de variations %%%%%%%%%%
+
+\usepackage{variations}
+
+%%%%%%%%%%%AmsMaths%%%%%%
+\usepackage{mathtools}        %Commandes essentielles, extension d'amsmath
+\usepackage{amsfonts,amssymb}  %Principaux symboles
+\usepackage{mathrsfs} %Polices calligraphiques
+\usepackage{stmaryrd} %Pour les intervalles d'entiers avec \llbracket et \rrbracket
+\usepackage[autolanguage, np]{numprint}
+%%%%%%%%%%%%Là encore il y a de grosses différences entre le monde anglo-saxon et les francophones.Le séparateur des décimales est un point en anglais et une virgule en français. Leséparateur des milliers est une virgule en anglais et une espace insécable en français. Ilest préférable dutiliser le package numprint (\usepackage{numprint}) qui associé àfrenchb produira la bonne typographie.
+%123456789 = 123456789 \numprint{123456789} = 123 456 789  \numprint{3,1415926535897932384626} = 3,141 592 653 589 793 238 462 6  \numprint{12.34} = 12,34  En plus tu peux préciser les unités de cette façon : \numprint[kg]{12.34} = 12,34 kg ou encore \numprint[\degres C]{22} = 22°C Si tu veux utiliser le raccourci \np{} au lieu de \numprint{}, il te faut charger le package de cette façon : \usepackage[np]{numprint}
+
+\usepackage{bbm, dsfont}   %Fonction indicatrice
+\usepackage{esint,esvect}  %Flèches supplémentaires.
+
+%%%%url%%%%
+
+\usepackage{url}
+
+%%%%%%%%%%%Packages spécifiques pour les sorties pdf%%%%%%%%
+
+%%%%Insertion de liens hypertextes %%%%
+
+\usepackage{hyperref}
+            
+            
+
+%%%%%%%%%%%%Graphiques et Dessins%%%%%%%%%%%%%%
+
+\usepackage{graphicx}		
+%\rotatebox[origin=x0x1]{angle}{texte} avec xox1 parmi t (top) l (left) r (right) B (ligne de base) et b (bottomm)
+%\resizebox{largeur}{hauteur}{texte} pour faire rentrer u nelement encombrant dans une boite	
+
+
+%%%%%%%%%%Parametrages Beamer %%%%%%%%%%%%%%%%%
+
+\usetheme{Singapore} % Beamer theme
+\usecolortheme[named=Chocolate]{structure} % Color: latextemplates.com/svgnames-colors
+\setbeamercolor{navigation symbols}{fg=black}
+\setbeamertemplate{navigation symbols}{\insertframenumber}
+
+%À mettre dans le préambule pour faire apparaitre le plan à chaque section 
+
+\AtBeginSection
+{
+\begin{frame}
+\frametitle{Plan}
+\tableofcontents[current, currentsubsection]
+\end{frame}
+}
+ 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%Le moteur eTeX est aujourd'hui utilisé par toutes les distributions (MikTeX, TeXlive) à la place de l'ancien TeX (en fait, c'est plutôt PDFTeX, le successeur de eTeX, qui est utilisé ; contrairement à ce que son nom indique, il peut produire du dvi). Le fait d'utiliser le moteur eTeX au lieu de TeX donne accès à des choses en plus (par exemple à \middle pour aller avec \left et \right, mais aussi à des commandes bien pratiques comme \numexpr, \dimexpr, \detokenize, etc. ainsi qu'à des ressources supplémentaires, comme plus de compteurs disponibles).
+
+%Lorsqu'on utilise le moteur eTeX, certaines de ces fonctionnalités sont automatiquement accessibles (c'est le cas de \middle, \numexpr, etc.), mais pas d'autres (c'est le cas des compteurs supplémentaires). Pour activer ces fonctionnalités manquantes, on peut charger le package etex.sty. Ainsi, l'utilisation d'etex.sty est une solution courante au problème d'avoir trop de compteurs définis (c'est le cas si on charge ensemble trop de packages du type tikz, pstricks, xymatrix, ...)
+
+%\usepackage{etex}
+
+%%%%%%%%%%%%Graphiques%%%%%%%%%%%%%%
+\usepackage{graphicx}	
+%\rotatebox[origin=x0x1]{angle}{texte} avec xox1 parmi t (top) l (left) r (right) B (ligne de base) et b (bottomm)	
+%\resizebox{largeur}{hauteur}{texte} pour faire rentrer u nelement encombrant dans une boite		
+%\usepackage{pstricks,pst-plot,pst-text,pst-tree,pst-eps,pst-fill,pst-node,pst-math,pstricks-add,pst-xkey,pst-blur,pst-coil,pst-grad,pst-eucl}
+
+%\begin{picture}(0,0) permet d'insérer n'importe quoi, n'importe où sans prendre de place (utilie pour annoter une figure en eps)
+%Une autre technique est \makebox[0cm][alignement]{texte}
+%Exemple:
+%\includegraphics[scale=1]{singe.eps}
+%\begin{picture}(0,0)
+%\put(-27,10){$\sqrt[3]{8}$}
+%\end{picture}
+\usepackage{pgf,tikz}
+\usetikzlibrary{arrows}
+\usetikzlibrary{shapes.geometric}
+\usetikzlibrary{petri}
+\usetikzlibrary{decorations}
+\usetikzlibrary{arrows}
+
+%%%%%%%¨Puces%%%%%%%%%%%%
+\usepackage{enumerate}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%Environnements persos%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%Syntaxe :
+%\newenvironment{nom}[nombre d'args][defaut]{definitions initiales}{definitions finales}
+%definitions intiales sont les commandes appelées par \begin{nom}
+%Definitions finales sont les commandes appelées par \end{nom}
+
+
+%%%%%Package listings%%%%%%%%%%%%
+
+\usepackage{listings}
+%On utilise l?environnement lstlisting pour insérer
+%un code source.
+%En plus de l?environnement lstlisting, on peut également utiliser la
+%commande \lstinline qui fonctionne comme la commande \verb, en ce
+%sens qu?on peut utiliser n?importe quel caractère comme délimiteur. Enfin,
+%la commande \lstinputlisting permet de charger un code source depuis
+%un fichier externe.
+%Il y a deux manières de préciser des options : soit via l?option de l?envi-
+%ronnement ou de la commande, soit en utilisant la commande \lstset
+%qui permet de définir des options de manière globale.
+
+\lstset{ %
+  language=Python,                % the language of the code
+  basicstyle=\ttfamily,           % the size of the fonts that are used for the code
+  numbers=left,                   % where to put the line-numbers
+  numberstyle=\tiny,  % the style that is used for the line-numbers
+  %stepnumber=2,                   % the step between two line-numbers. If it's 1, each line 
+                                  % will be numbered
+  %numbersep=5pt,                  % how far the line-numbers are from the code
+  backgroundcolor=\color{white},      % choose the background color. You must add \usepackage{color}
+  showspaces=false,               % show spaces adding particular underscores
+  showstringspaces=false,         % underline spaces within strings
+  showtabs=false,                 % show tabs within strings adding particular underscores
+  %frame=single,                   % adds a frame around the code
+  rulecolor=\color{black},        % if not set, the frame-color may be changed on line-breaks within not-black text (e.g. comments (green here))
+  tabsize=4,                      % sets default tabsize to 2 spaces
+  captionpos=b,                   % sets the caption-position to bottom
+  breaklines=true,                % sets automatic line breaking
+  breakatwhitespace=false,        % sets if automatic breaks should only happen at whitespace
+  %title=\lstname,                   % show the filename of files included with \lstinputlisting;
+                                  % also try caption instead of title
+  breakindent=1cm,
+  keywordstyle=\color{blue},          % keyword style
+  commentstyle=\color{red},       % comment style
+  %stringstyle=\ttfamily\color{green},         % string literal style
+  escapeinside={\%*}{*)},            % if you want to add LaTeX within your code
+  morekeywords={*,...},              % if you want to add more keywords to the set
+  deletekeywords={...}              % if you want to delete keywords from the given language
+  upquote=true,columns=flexible,
+  frame=lines,
+  extendedchars=true,
+xleftmargin=1cm,xrightmargin=1cm
+}
+
+
+%\lstset{language=Python,basicstyle=\small , frame=single,tabsize=4,showspaces=false,showtabs=false,showstringspaces=false,numbers=left,numberstyle=\tiny , extendedchars=true}
+
+
+%%%%%PAckages pour l'environnement algobox%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\usepackage{algorithm}
+\usepackage{algpseudocode}
+
+
+
+%%%%%%%%%%%%%%%%%%Maths divers%%%%%%%%%%%%%%%%%%%%%%%%%
+%Delimiteurs
+\newcommand{\delim}[3]{\raise #1\hbox{$\left #2\vbox to #3{}\right.$}}
+
+
+%%%%%%%%%%%%%Nombres%%%%%%%%%%%%%%%%
+
+%Ensemble prive de...
+%\newcommand{\prive}{\boi}%{\backslash}
+
+%Ensembles de nombres%%%%%%%%%%%%%%%%%
+\newcommand{\R}{\mathbb{R}}
+\newcommand{\N}{\mathbb{N}}
+\newcommand{\D}{\mathbb{D}}
+\newcommand{\Z}{\mathbb{Z}}
+\newcommand{\Q}{\mathbb{Q}}
+\newcommand{\C}{\mathbb{C}}
+\newcommand{\df}{~\ensuremath{]0;+\infty[}~}
+\newcommand{\K}{\mathbb{K}}
+
+%%%%%%%%Arithmetique%%%%%%%%%%
+%PGCD, PPCM
+\newcommand{\PGCD}{\mathop{\rm PGCD}\nolimits}
+\newcommand{\PPCM}{\mathop{\rm PPCM}\nolimits}
+
+%Intervalles
+\newcommand{\interoo}[2]{]#1\, ;\, #2[}
+\newcommand{\Interoo}[2]{\left]#1\, ;\, #2\right[}
+\newcommand{\interof}[2]{]#1\, ;\, #2]}
+\newcommand{\Interof}[2]{\left]#1\, ;\, #2\right]}
+\newcommand{\interfo}[2]{[#1\, ;\, #2[}
+\newcommand{\Interfo}[2]{\left[#1\, ;\, #2\right[}
+\newcommand{\interff}[2]{[#1\, ;\, #2]}
+\newcommand{\Interff}[2]{\left[#1\, ;\, #2\right]}
+%\newcommand\interentiers #1#2{[\! [#1\, ;\, #2]\! ]}
+\newcommand{\interentiers}[2]{\llbracket #1\, ;\, #2\rrbracket}
+%
+
+
+%%%%%%%%%%%%%%Nombres complexes%%%%%
+
+\newcommand{\ic}{\text{i}}
+%\newcommand{\I}{\text{i}}
+\newcommand{\im}[1]{\text{Im}\left(#1\right)}
+\newcommand{\re}[1]{\text{Re}\left(#1\right)}
+\newcommand{\Arg}[1]{\text{arg}\left(#1\right)}
+\newcommand{\Mod}[1]{\left[#1\right]}
+%Parties entiÃ¨re, rÃ©elle, imaginaire, nombre i
+\newcommand{\ent}[1]{\text{E}\left(#1\right)}
+\renewcommand{\Re}{\mathop{\rm Re}\nolimits}
+\renewcommand{\Im}{\mathop{\rm Im}\nolimits}
+\renewcommand{\i}{\textrm{i}}
+
+%%%%%%%%%%%Probabilites et statistiques%%%%%
+\newcommand{\loibinom}[2]{\mathcal{B}\left(#1\ ; \ #2 \right)}
+\newcommand{\loinorm}[2]{\mathcal{N}\left(#1\ ; \ #2 \right)}
+\newcommand{\loiexp}[1]{\mathcal{E}\left(#1\right)}
+\newcommand{\proba}[1]{\text{P}\big(#1\big)}
+\newcommand{\probacond}[2]{\text{P}_{#2}\big(#1\big)}
+\newcommand{\esperance}[1]{\text{E}\left(#1\right)}
+\newcommand{\variance}[1]{\text{V}\left(#1\right)}
+\newcommand{\ecart}[1]{\sigma\left(#1\right)}
+\newcommand{\dnormx}{\frac{1}{\sqrt{2\pi}} \text{e}^{-\frac{x^2}{2}}}
+\newcommand{\dnormt}{\frac{1}{\sqrt{2\pi}} \text{e}^{-\frac{t^2}{2}}}
+\newcommand{\nbalea}[2]{\reinitrand[first=#1, last=#2, counter=num]  \rand $\thenum$}  %retourne un entier aleatoire antre les bornes #1 et #2 comprises
+%Covariance
+\newcommand{\cov}{\mathop{\rm cov}\nolimits}
+%
+
+
+%%%%%%%%%%Analyse%%%%%%%%%%%
+
+%%%%%%%%%%%Courbe%%%%%%%%%%%%
+\newcommand{\courbe}[1]{\ensuremath{\mathcal{C}_{#1}}}
+
+%%%%%%%Fonction exponentielle%%%%%
+\newcommand{\fe}{~fonction exponentielle~}
+\newcommand{\e}{\text{e}}
+
+%Fonction cotangente
+\newcommand{\cotan}{\mathop{\rm cotan}\nolimits}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%Fonctions hyperboliques
+\newcommand{\ch}{\mathop{\rm ch}\nolimits}
+\newcommand{\sh}{\mathop{\rm sh}\nolimits}
+
+
+%%%%%%%%%%%%%%Limites%%%%%%
+\newcommand{\limite}[2]{\lim\limits
+_{x \to #1} #2}
+\newcommand{\limitesuite}[1]{\lim\limits
+_{n \to +\infty} #1}
+\newcommand{\limiteg}[2]{\lim\limits
+_{\substack{x \to #1 \\ x < #1 }} #2}
+\newcommand{\limited}[2]{\lim\limits
+_{\substack{x \to #1 \\ x > #1 }} #2}
+
+%%%%%%%%%%Continuité%%%%%%%%%%%
+\newcommand{\TVI}{théorème des valeurs intermédiaires}
+
+%%%%%%%%%%%Suites%%%%%%%%%%%%
+\newcommand{\suite}[1]{\ensuremath{\left(#1_{n}\right)}}
+\newcommand{\Suite}[2]{\ensuremath{\left(#1\right)_{#2}}}
+%
+
+%%%%%%%%%%%%%%%Calcul intégral%%%%%%
+\newcommand{\dx}{\ensuremath{\text{d}x}}		% dx
+\newcommand{\dt}{\ensuremath{\text{d}t}}		% dt
+\newcommand{\dtheta}{\ensuremath{\text{d}\theta}}		% dtheta
+\newcommand{\dy}{\ensuremath{\text{d}y}}		% dy
+\newcommand{\dq}{\ensuremath{\text{d}q}}		% dq
+
+%%%Intégrale%%%
+\newcommand{\integralex}[3]{\int_{#1}^{#2} #3 \ \dx}
+\newcommand{\integralet}[3]{\int_{#1}^{#2} #3 \ \dt}
+\newcommand{\integraletheta}[3]{\int_{#1}^{#2} #3 \ \dtheta}
+
+%%%%%Equivalent%%
+\newcommand{\equivalent}[1]{\build\sim_{#1}^{}}
+
+%o et O%%%%
+\renewcommand{\o}[2]{\build o_{#1\to #2}^{}}
+\renewcommand{\O}[2]{\build O_{#1\to #2}^{}}
+
+
+
+%%%%%%%%%%%%%%%Geometrie%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%Reperes%%%%%%%%%%%%%%
+\def\Oij{\ensuremath{\left(\text{O},~\vect{\imath},~\vect{\jmath}\right)}}
+\def\Oijk{\ensuremath{\left(\text{O},~\vect{\imath},~ \vect{\jmath},~ \vect{k}\right)}}
+\def\Ouv{\ensuremath{\left(\text{O},~\vect{u},~\vect{v}\right)}}
+\renewcommand{\ij}{(\vec\imath\, ;\vec\jmath\,)}
+\newcommand{\ijk}{(\vec\imath\, ;\vec\jmath\, ;\vec k\,)}
+\newcommand{\OIJ}{(O\,;\, I\,;\, J\,)}
+\newcommand{\repere}[3]{\big(#1\, ;\,\vect{#2} ;\vect{#3}\big)}
+\newcommand{\reperesp}[4]{\big(#1\, ;\,\vect{#2} ;\vect{#3} ;\vect{#4}\big)}
+
+%%%%%%%%%Coordonnees%%%%%%%%%%%%%%
+\newcommand{\coord}[2]{(#1\, ;\, #2)}
+\newcommand{\bigcoord}[2]{\big(#1\, ;\, #2\big)}
+\newcommand{\Coord}[2]{\left(#1\, ;\, #2\right)}
+\newcommand{\coordesp}[3]{(#1\, ;\, #2\, ;\, #3)}
+\newcommand{\bigcoordesp}[3]{\big(#1\, ;\, #2\, ;\, #3\big)}
+\newcommand{\Coordesp}[3]{\left(#1\, ;\, #2\, ;\, #3\right)}
+
+%Symboles entre droites
+%\newcommand{\paral}{\sslash}
+\newcommand{\paral}{\mathop{/\!\! /}}
+%
+%%%%%%%%%Produit scalaire, Angles%%%%%%%%%%
+\newcommand{\scal}[2]{\vect{#1} \, \cdot \, \vect{#2}}
+\newcommand{\Angle}[2]{\left(\vect{#1} \, , \, \vect{#2}\right)}
+\newcommand{\Anglegeo}[2]{\left(\widehat{\vect{#1} \, , \, \vect{#2}}\right)}
+\renewcommand{\angle}[1]{\widehat{#1}}
+\newcommand{\anglevec}[2]{\left(\vec {#1}\, ,\,\vec {#2} \right)}
+\newcommand{\anglevecteur}[2]{(#1\, ,\, #2)}
+\newcommand{\Anglevec}[2]{(\vecteur{#1}\, ,\,\vecteur{#2})}
+\newcommand{\prodscal}[2]{#1 \, \cdot \, #2}
+
+%Arc
+%\newcommand{\arc}[1]{\wideparen{#1}}
+\newcommand{\arcoriente}[1]{\overset{\curvearrowright}{#1}}
+%
+%
+
+
+%%%%%%%%%%%%%%%Normes%%%%%%%%%%%%%%%%
+\newcommand{\norme}[1]{\left\| #1\right\|}
+\newcommand{\normebis}[1]{\delim{2pt}{\|}{9pt}\! #1\delim{2pt}{\|}{9pt}}
+\newcommand{\normetriple}[1]{\left |\kern -.07em\left\| #1\right |\kern -.07em\right\|}
+\newcommand{\valabs}[1]{\big| \, #1 \, \big|}
+%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%Degré%%%%%%
+%\newcommand{\Degre}{\ensuremath{^\circ}}
+%La commande \degre est déjà définie dans le package babel
+
+%%%%%%%%%%Vecteurs%%%%%%%%%%%
+\newcommand{\vect}[1]{\mathchoice%
+{\overrightarrow{\displaystyle\mathstrut#1\,\,}}%
+{\overrightarrow{\textstyle\mathstrut#1\,\,}}%
+{\overrightarrow{\scriptstyle\mathstrut#1\,\,}}%
+{\overrightarrow{\scriptscriptstyle\mathstrut#1\,\,}}}
+
+
+
+%%%%%%%%%%%%%Algebre%%%%%%%%%%%%%%%
+
+
+%%%%%%%%%%Systemes%%%%%%%%%%%
+%Systemes
+\newcommand{\sys}[2]{
+\left\lbrace
+ \begin{array}{l}
+  \negthickspace\negthickspace #1\\
+  \negthickspace\negthickspace #2\\
+ \end{array}
+\right.\negthickspace\negthickspace}
+\newcommand{\Sys}[3]{
+\left\lbrace
+ \begin{array}{l}
+  #1\\
+  #2\\
+  #3\\
+ \end{array}
+\right.}
+\newcommand{\Sysq}[4]{
+\left\lbrace
+ \begin{array}{l}
+  #1\\
+  #2\\
+  #3\\
+  #4\\
+ \end{array}
+\right.}
+%
+%
+
+%%%%%%%%%%%%%%%%Matrices%%%%%%%%%%%%%%%%%%
+%Comatrice
+\newcommand{\com}{\mathop{\rm com}\nolimits}
+%
+%
+%Trace
+\newcommand{\tr}{\mathop{\rm tr}\nolimits}
+%
+%
+%Transposee
+\newcommand{\transposee}[1]{{\vphantom{#1}}^t\negmedspace #1}
+%
+%
+%Noyau
+\newcommand{\Ker}{\mathop{\rm Ker}\nolimits}
+%
+%
+
+%
+%Matrices
+\newcommand{\Mn}{\mathcal M_n}
+\newcommand{\matrice}[4]{
+\left(
+ \begin{array}{cc}
+  #1 & #2 \\
+  #3 & #4
+ \end{array}
+\right)}
+
+\newcommand{\Matrice}[9]{
+\left(
+ \begin{array}{ccc}
+  #1 & #2 & #3\\
+  #4 & #5 & #6\\
+  #7 & #8 & #9
+ \end{array}
+\right)}
+\newcommand{\Vect}[3]{
+\left(\negmedspace
+ \begin{array}{c}
+  #1\\
+  #2\\
+  #3
+ \end{array}\negmedspace
+\right)}
+\newcommand{\Ideux}{\matrice{1}{0}{0}{1}}
+\newcommand{\Itrois}{\Matrice{1}{0}{0}{0}{1}{0}{0}{0}{1}}
+%
+%
+%Determinants
+\newcommand{\determinant}[4]{
+\left|
+ \begin{array}{cc}
+  #1 & #2 \\
+  #3 & #4
+ \end{array}
+\right|}
+\newcommand{\Determinant}[9]{
+\left|
+ \begin{array}{ccc}
+  #1 & #2 & #3\\
+  #4 & #5 & #6\\
+  #7 & #8 & #9
+ \end{array}
+\right|}
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%Commandes Tikz%%%%%%%%%%%%%%%
+
+% Définition des nouvelles options xmin, xmax, ymin, ymax
+% Valeurs par défaut : -3, 3, -3, 3
+\tikzset{
+xmin/.store in=\xmin, xmin/.default=-3, xmin=-3,
+xmax/.store in=\xmax, xmax/.default=3, xmax=3,
+ymin/.store in=\ymin, ymin/.default=-3, ymin=-3,
+ymax/.store in=\ymax, ymax/.default=3, ymax=3,
+}
+% Commande qui trace la grille entre (xmin,ymin) et (xmax,ymax)
+\newcommand {\grille}[1]
+{\draw[help lines] (\xmin,\ymin) grid[step=#1] (\xmax,\ymax);}
+% Commande \axes
+\newcommand {\axes} {
+\draw[->,very thick] (\xmin,0) -- (\xmax,0);
+\draw[->,very thick] (0,\ymin) -- (0,\ymax);
+\draw (\xmax, 0) node[above] {$x$};
+\draw (0, \ymax) node[left] {$y$};
+}
+% Commande qui limite l?affichage à (xmin,ymin) et (xmax,ymax)
+\newcommand {\fenetre}
+{\clip (\xmin,\ymin) rectangle (\xmax,\ymax);}
+
+%Exemple d'utilisation
+
+%\begin{center}
+%\begin{tikzpicture} [xmin=-2,xmax=2,ymin=0,ymax=5]
+%\grille{1} \axes \fenetre
+%\draw plot[smooth] (\x,\x^2);
+%\end{tikzpicture}
+%\end{center}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%Fin Commandes Tikz%%%%%%%%%%%%%%%
+
+
+%%%%%%Cadre Maxima%%%%%%%
+\definecolor{labelcolor}{RGB}{100,0,0}
+
+
+%%%%%%%Symbole pour code calculatrice%%%%%%
+
+%Flèche remplie pour défilement de menu
+
+\newcommand{\flechefillright}{
+\begin{tikzpicture}[scale=0.15] \fill (0,0)--(2,1)--(0,2)--cycle;
+\end{tikzpicture}}
+
+%%%%%%%%%%%%%Symboles pour calculatrice Casio%%%%
+\newcommand{\execasio}{\Pisymbol{psy}{191}} %Retour chariot
+\newcommand{\dispcasio}{\begin{pspicture}(.1,.1)\pspolygon*(.1,0)(.1,.1)\end{pspicture}} %Triangle Â« Disp Â»
+\newcommand{\dispcasiotikz}{\begin{tikzpicture}[scale=0.2]
+\fill (0,0) -- (1,0) -- (1,1) -- cycle;
+\end{tikzpicture}} %Triangle Â« Disp Â»
+%
+%
+%Fleche entre deux lignes, d'apres 'un bon petit' : http://forum.mathematex.net/latex-f6/fleches-entre-deux-lignes-pour-resolution-d-equation-t10283.html#p99817
+\newcommand\addnode[1]{\Rnode{#1}{}}
+\newcommand\linknode[3]{\ncbar[angleA=0,angleB=0,nodesep=1ex,arm=10ex,offset=-2pt]{->}{#1}{#2}\Aput{\vphantom{x}#3}}
+
+%%%%%Fin des commandes Mathematiques%%%%%%%%
+
+\everymath{\displaystyle}
+
+\begin{document}
+
+\frame{\titlepage}
+
+
+\begin{frame}
+\frametitle{Table des matières}
+\begin{itemize}
+	\item \hyperlink{definition}{Définition et objectifs}
+	\item \hyperlink{deroulement}{Déroulement de l'épreuve}
+	\item \hyperlink{evaluation}{Évaluation}
+		\item \hyperlink{attendus}{Attendus}
+	\item \hyperlink{maths}{Mathématiques}
+	\item \hyperlink{ressources}{Ressources}
+
+\end{itemize}
+
+\end{frame}
+ 
+
+
+\begin{frame}
+
+\frametitle{Définition et objectifs}
+
+\label{definition}
+
+\begin{block}{Définition}
+L'épreuve du \textit{Grand oral}  est  conçue pour permettre au candidat de montrer sa capacité à prendre la parole en public de façon claire et convaincante. Elle doit lui  permettre aussi d'utiliser les connaissances liées à ses spécialités pour démontrer ses capacités argumentatives et la maturité de son projet de poursuite d'études, voire professionnel. Son coefficient est de 10 sur 100.
+\end{block}
+
+
+\end{frame}
+
+
+
+\begin{frame}
+
+\frametitle{Déroulement de l'épreuve 1}
+
+\label{deroulement}
+
+\begin{block}{Déroulement 1}
+
+\begin{itemize}
+\item Le Grand oral dure 20 minutes avec 20 minutes de préparation.\pause
+
+\item Le candidat présente au jury deux questions préparées avec ses professeurs et éventuellement avec d'autres élèves, qui portent sur ses deux spécialités, soit prises isolément, soit abordées de manière transversale en voie générale. \pause
+
+\item Le jury choisit une de ces deux questions. Le candidat a ensuite 20 minutes de préparation pour mettre en ordre ses idées et créer s'il le souhaite un support (qui ne sera pas évalué) à donner au jury.
+
+\end{itemize}
+\end{block}
+
+
+\end{frame}
+
+
+\begin{frame}
+
+\frametitle{Déroulement de l'épreuve 2}
+
+\label{deroulement}
+
+\begin{block}{Déroulement 2}
+
+\begin{itemize}
+\item Pendant 5 minutes, le candidat présente la question choisie et y répond. Le jury évalue son argumentation et ses qualités de présentation. L'exposé se déroule sans note et debout, sans support. \pause
+\item Ensuite, pendant 10 minutes, le jury échange avec le candidat et évalue la solidité de ses connaissances et ses compétences argumentatives. Ce temps d'échange permet à l'élève de mettre en valeur ses connaissances, liées au programme des spécialités suivies en classe de première et terminale. \pause
+\item Les 5 dernières minutes d'échanges avec le jury portent sur le projet d'orientation du candidat. Le candidat montre que la question traitée a participé à la maturation de son projet de poursuite d'études, et même pour son projet professionnel. \pause
+\end{itemize}
+\end{block}
+
+
+\end{frame}
+
+\begin{frame} 
+
+\frametitle{Évaluation}
+
+\label{evaluation}
+
+\begin{block}{Évaluation}
+L'épreuve est notée sur 20 points. Le jury valorise la solidité des connaissances du candidat, sa capacité à argumenter et à relier les savoirs, son esprit critique, la précision de son expression, la clarté de son propos, son engagement dans sa parole, sa force de conviction. 
+
+En sciences l’élève doit apprendre à être à la fois rigoureux sur le lexique scientifique et exigeant quant à la capacité de \textit{mettre à portée} d'un auditeur non expert la problématique étudiée. La réponse à la question, ainsi que l’argumentation, doivent contenir de
+vrais marqueurs disciplinaires : dimension expérimentale, activités de modélisation,  de programmation et ouverture sur le monde scientifique, économique et industriel.
+
+\end{block}
+
+
+\end{frame}
+
+
+\begin{frame}
+
+\frametitle{Grille indicative d'évaluation}
+
+\begin{center}
+\includegraphics[scale=0.3]{images/grille.png}
+\end{center}
+
+
+\end{frame}
+
+
+
+
+\begin{frame} 
+
+\frametitle{Attendus 1}
+
+\label{attendus}
+
+\begin{block}{Le premier temps : présentation d’une question et de son traitement}
+La  question choisie par l'élève doit être singulière et personnelle. L'élève doit
+pouvoir exposer les enjeux intellectuels et généraux de la question,  qui font qu’elle mérite qu’on
+l’approfondisse et qu’on la problématise, et également les enjeux que cette question revêt à
+ses yeux.
+
+\end{block}
+\end{frame}
+
+
+\begin{frame} 
+
+\frametitle{Attendus 2}
+
+
+\begin{block}{Le deuxième temps : échange avec le candidat}
+Il importe que le candidat puisse entrer dans un dialogue constructif avec le jury à partir de
+sa question : la maîtrise de l’exercice ne suppose pas seulement de savoir parler, mais
+encore de savoir écouter. Le candidat doit être capable d'argumenter dans un langage précis  mais clair et abordable même par un non spécialiste.
+\end{block}
+\end{frame}
+
+
+
+\begin{frame} 
+
+\frametitle{Attendus 3}
+
+
+\begin{block}{Le troisième temps : explicitation du projet d’orientation}
+L’élève est amené à expliciter en quoi la question traitée éclaire son projet de poursuite d’études, voire son projet professionnel. Il est amené à envisager le sens de son passage au lycée et le choix de ses deux spécialités.  Néanmoins il est prévu que l’élève puisse éventuellement expliquer son choix d’orientation sans s’appuyer sur les deux enseignements de spécialité qu’il a suivis en classe terminale, ni sur les deux questions supports à l’épreuve orale.
+\end{block}
+\end{frame}
+
+
+\begin{frame} 
+
+\frametitle{Les mathématiques}
+
+\label{maths}
+\begin{block}{Entrées possibles}
+\begin{itemize}
+\item Une notion du programme, une point de l'histoire des mathématiques, une démonstration :
+applications des équations différentielles au vélo, modèles d'évolutions et croissance
+des plantes, la controverse entre Leibniz et Newton 
+\item Le lien avec une autre spécialité :finance, 
+infographie, biologie, BigData, philosophie (exister, devoir, pouvoir, infini, absurde)\ldots 
+\item L'attention portée à une notion pour ses enjeux sociétaux et culturels ou dans un parcours
+d’orientation (continuum second degré vers supérieur) : modélisations, situations de type \og{} faux positifs \fg{}, compte rendus de lectures, notions vectorielles
+pour préparer l’algèbre linéaire...
+\item Des obstacles didactiques rencontrés et la façon dont ils ont été levés (raisonnement par récurrence)
+\end{itemize}
+\end{block}
+\end{frame}
+
+
+\begin{frame} 
+
+\frametitle{Les mathématiques}
+
+\begin{block}{Questions possibles (1/2)}
+\begin{itemize}
+\item Faut-il croire aux sondages ? 
+\item Comment interpréter un test médical ?
+\item Peut-on modéliser toute évolution de population par une équation différentielle ? 
+\item Comment calculer $\pi$ à un milliard de décimales ?
+\item Pourquoi une échelle des monnaies/poids basée sur 1, 2, 5, 10 et pas 1, 3, 6, 12, 24 ?
+\item Quel est le nombre de solutions d'une équation polynomiale de degré 3 ?
+\end{itemize}
+\end{block}
+\end{frame}
+
+
+
+
+\begin{frame}  
+
+\frametitle{Les mathématiques}
+
+\begin{block}{Questions possibles (2/2)}
+\begin{itemize}
+\item Quelle est la forme de la trajectoire suivie par une sonde envoyée sur Mars ?
+\item Acheter ou louer son appartement ?
+\item Exponentielle et datation pour détecter les faux tableaux;  Comment gagner à un jeu télévisé ? voir la conférence 
+de Daniel Perrin \url{https://youtu.be/dBTF2M3M1Uk}
+\end{itemize}
+\end{block}
+\end{frame}
+
+
+
+\begin{frame} 
+
+\frametitle{Les ressources}
+
+\label{ressources}
+\begin{block}{Ressources}
+\begin{itemize}
+\item Captation video  d'une conférence de Daniel Perrin \url{https://youtu.be/dBTF2M3M1Uk} et un \href{https://github.com/frederic-junier/Terminale-Spe-Maths/blob/master/GranOral/Daniel_Perrin.pdf}{compte rendu} d'une autre ;
+\item Un \href{https://euler.ac-versailles.fr/IMG/pdf/pistes-grand-oral-huet-version-sans\_programme.pdf}{document de synthèse}  pour les élèves par Catherine Huet IPR de Versailles
+ \item Encore un \href{https://github.com/frederic-junier/Terminale-Spe-Maths/blob/master/GrandOral/oral_maths_euler.pdf}{document intéressant} de l'académie de Versailles.
+\item Le \href{https://frederic-junier.github.io/Terminale-Spe-Maths/}{site de référence}  ;) 
+\item Pour s'enregistrer en ligne et télécharger sa prestation au format mp3 ou pour s'entraîner en temps limité \url{https://www.mon-oral.net/}
+\end{itemize}
+\end{block}
+\end{frame}
+
+
+
+
+\end{document}
