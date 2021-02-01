@@ -9,6 +9,7 @@ Documents pour ma classe de Terminale Spécialité Mathématiques
 * Site [Python seconde](http://www.frederic-junier.org/PythonSeconde/Python_Seconde_Parc/accueil_python_2nde.html)
 * Site [Python au lycée](https://www.python-lycee.com/)
 * Doceval, exerciseur en ligne : <https://doctools.dgpad.net/>
+* Pour préparer le grand oral, un enregistreur en ligne qui permet de télécharger ensuite l'enregistrement au format mp3 : <https://www.mon-oral.net/>  Attention : utilisez le navigateur Chrome ou Chromium.
 
  
 ## Questions flash / Automatismes
