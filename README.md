@@ -5,7 +5,7 @@ Documents pour ma classe de Terminale Spécialité Mathématiques
 
 ## Outils
 
-* Interpréteur Python en ligne : [https://repl.it/@fredericjunier/TS-2019-2020](https://repl.it/@fredericjunier/TS-2019-2020)
+* Interpréteur Python en ligne : <https://python.infobrisson.fr/>
 * Site [Python seconde](http://www.frederic-junier.org/PythonSeconde/Python_Seconde_Parc/accueil_python_2nde.html)
 * Site [Python au lycée](https://www.python-lycee.com/)
 * Doceval, exerciseur en ligne : <https://doctools.dgpad.net/>
