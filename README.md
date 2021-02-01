@@ -35,7 +35,7 @@ Le sujet propose :
 
 ## Grand oral :
 
-Mon [diaporama de présentation](GranOral/Presentation-Grand-Oral.pdf)
+Mon [diaporama de présentation](GrandOral/Presentation-Grand-Oral.pdf)
 
 ### Sitographie :
 
