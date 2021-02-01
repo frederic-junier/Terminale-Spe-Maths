@@ -84,7 +84,7 @@ On pourra pointer la vidéo sur la modélisation de la propagation du Coronaviru
 
 * [Conférence de Daniel Perrin](https://youtu.be/dBTF2M3M1Uk)  _Cryptographie et nombres premiers_ avec plein d'anecdotes historiques :
   * Les mathématiques sont utiles : tunnel de Samos, fonction exponentielle et datation, comment gagner à un jeu télévisé (jeu de Monty Hall)
-  * Les mathématiques inutiles aujourd'hui le seront peut-être demain : nombres premiers et cryptographie, histoire des codes secrets
+  * Les mathématiques inutiles aujourd'hui le seront peut-être demain : nombres premiers et cryptographie, histoire des codes secrets (parmi les exemples : histoire de Marie Stuart, code secret dans la nouvelle _Le scarabée d'or_ d'Edgar Poe => on pourrait faire déchiffrer des messages aux examinateurs en leur donnant les lettres les plus fréquentes dans la langue du message, proposer un petit programme Python ...)
   
 * [Conférence de Cédric Villani : "Tout est mathématiques"](https://youtu.be/rLFUnCUyPko):
   * De la recherche fondamentale aux applications inattendues : courbure de Riemmann à la théorie de la relativité et aux GPS, distribution statistique des zéros de fonction zeta de Riemman et niveaux d'énergie des atomes
