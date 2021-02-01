@@ -35,7 +35,7 @@ Le sujet propose :
 
 ## Grand oral :
 
-Mon [diaporama de présentation](GrandOral/Presentation-Grand-Oral.pdf)
+Mon [diaporama de présentation](GrandOral/Presentation-Grand-Oral.pdf) : rien d'original, j'ai compilé des extraits de la page Eduscol et du document de synthèse de l'inspection générale
 
 ### Sitographie :
 
@@ -44,7 +44,7 @@ Mon [diaporama de présentation](GrandOral/Presentation-Grand-Oral.pdf)
    * la page Eduscol sur le grand oral <https://eduscol.education.fr/729/presentation-du-grand-oral>
    * [document de synthèse d'un IPR de l'académie de Versailles](https://euler.ac-versailles.fr/IMG/pdf/pistes-grand-oral-huet-version-sans_programme.pdf)
    * [encore un document de l'académie de Versailles](GrandOral/oral_maths_euler.pdf)
-   * [document de l'inspection générale de mathématiques](GrandOral/grand_oral_inspection_générale.pdf)
+   * [document de l'inspection générale](GrandOral/grand_oral_inspection_générale.pdf)
 * Le site [Images des mathématiques](http://images.math.cnrs.fr/), consulter en particulier la rubrique [Pour aller moins loin](http://images.math.cnrs.fr/-Ressources-pedagogiques-pour-aller-moins-loin-.html).
   * Croissances cumulées : <http://images.math.cnrs.fr/La-loi-de-la-croissance-cumulee.html> thèmes logarithmes, suites ....
   * A propos des différentes preuves du théorème de Pythagore : <http://images.math.cnrs.fr/Encore-une-preuve-du-theoreme-de-Pythagore.html>
