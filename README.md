@@ -35,6 +35,8 @@ Le sujet propose :
 
 ## Grand oral :
 
+Mon [diaporama de présentation](GranOral/Presentation-Grand-Oral.pdf)
+
 ### Sitographie :
 
 * Un document à lire pour mieux comprendre la recherche en mathématiques : [Conférence de Daniel Perrin](GranOral/Daniel_Perrin.pdf) 
