@@ -82,7 +82,7 @@ On pourra pointer la vidéo sur la modélisation de la propagation du Coronaviru
     * La format de papier A4 (suites, second degré) :[Video Audimaths](https://youtu.be/sgsJuqaiCCM)
     * Magnifiques logarithmes par Benoit Rittaud (logarithmes, tables de calcul, histoire, aire sous l'hyperbole ...) : [Video Audimaths](https://youtu.be/-NcKh-qvb_g)  => la démonstration que l'aire sous la courbe d'un arce d'hyperbole entre 1 et u x v vérifie la relation fondamentale du logarithme pourrait être réexploitée.
 
-* [Conférence de Daniel Perrin](https://youtu.be/dBTF2M3M1Uk)  Cryptographie et nombres premiers :
+* [Conférence de Daniel Perrin](https://youtu.be/dBTF2M3M1Uk)  _Cryptographie et nombres premiers_ avec plein d'anecdotes historiques :
   * Les mathématiques sont utiles : tunnel de Samos, fonction exponentielle et datation, comment gagner à un jeu télévisé (jeu de Monty Hall)
   * Les mathématiques inutiles aujourd'hui le seront peut-être demain : nombres premiers et cryptographie
   
