@@ -68,6 +68,7 @@ Mon [diaporama de présentation](GrandOral/Presentation-Grand-Oral.pdf) : rien d
   * "Enigmes mathématiques de Lewis Carroll - 72 problèmes pour vos nuits blanches " d'Elizabeth Busser
   * "Once upon an algorithm" de Martin Erwing
   * "Computational Fairy Tales" de Jeremy Kubica
+* Le "Dictionnaire de (presque) tous les nombres entiers" de Daniel Lignon aux éditions Ellipses : les clefs sont les entiers naturels successifs (pas tous ...) et les valeurs leurs propriétés avec des focus. Par exemple pour 43, on a un article sur les _nombres Mc Nugget_ puisque 43 est le plus grand entier qui ne peut pas être obtenu comme  6, 9 et 20. Les  _nombres Mc Nugget_  sont liés au problème de Frobenius de décompistion des entiers en somme d'entiers premiers entre eux fixée. La détermination des _nombres Mc Nugget_ est un problème NP-complet, des problèmes similaires sont ceux du rendu optimal de monnaie => un bon moyen de parler d'algorithmique. A propos d'algorithme glouton, voir l'exercice "Cannelés bordelais" du sujet national des Olympiades académiques de Première 2017 <http://math.univ-lyon1.fr/~lass/sujetlyon17.pdf> . A propos des  _nombres Mc Nugget_   voir cette video de [Scientifcfiz](https://youtu.be/mJ9a_-LT_QA).
 
 ### Des videos en ligne 
 
