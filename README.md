@@ -35,7 +35,7 @@ Le sujet propose :
 
 ## Grand oral :
 
-Mon [diaporama de présentation](GrandOral/Presentation-Grand-Oral.pdf)
+Mon [diaporama de présentation](GrandOral/Presentation-Grand-Oral.pdf) : rien d'original, j'ai compilé des extraits de la page Eduscol et du document de synthèse de l'inspection générale
 
 ### Sitographie :
 
@@ -44,7 +44,7 @@ Mon [diaporama de présentation](GrandOral/Presentation-Grand-Oral.pdf)
    * la page Eduscol sur le grand oral <https://eduscol.education.fr/729/presentation-du-grand-oral>
    * [document de synthèse d'un IPR de l'académie de Versailles](https://euler.ac-versailles.fr/IMG/pdf/pistes-grand-oral-huet-version-sans_programme.pdf)
    * [encore un document de l'académie de Versailles](GrandOral/oral_maths_euler.pdf)
-   * [document de l'inspection générale de mathématiques](GrandOral/grand_oral_inspection_générale.pdf)
+   * [document de l'inspection générale](GrandOral/grand_oral_inspection_générale.pdf)
 * Le site [Images des mathématiques](http://images.math.cnrs.fr/), consulter en particulier la rubrique [Pour aller moins loin](http://images.math.cnrs.fr/-Ressources-pedagogiques-pour-aller-moins-loin-.html).
   * Croissances cumulées : <http://images.math.cnrs.fr/La-loi-de-la-croissance-cumulee.html> thèmes logarithmes, suites ....
   * A propos des différentes preuves du théorème de Pythagore : <http://images.math.cnrs.fr/Encore-une-preuve-du-theoreme-de-Pythagore.html>
@@ -58,6 +58,10 @@ Mon [diaporama de présentation](GrandOral/Presentation-Grand-Oral.pdf)
 * La plateforme de l'académie de Lyon dédiée à la [culture scientifique](http://culture-scientifique-technique.enseigne.ac-lyon.fr/spip/).
 * Arts et mathématiques :
   * Une galerie en ligne : <http://gallery.bridgesmathart.org/exhibitions/2021-joint-mathematics-meetings>
+  
+* Une page consacrée à la préparation du Grand Oral sur un site partagé par des collègues de SVT des lycées français d'Amérique du Nord :
+
+[![image](images/grand_oral_aefne.jpeg)](https://sites.google.com/a/prefas.org/svt_am_nord/loral-en-classe-de-svt?authuser=0)
 
 
 ### Bibliographie :
@@ -68,6 +72,7 @@ Mon [diaporama de présentation](GrandOral/Presentation-Grand-Oral.pdf)
   * "Enigmes mathématiques de Lewis Carroll - 72 problèmes pour vos nuits blanches " d'Elizabeth Busser
   * "Once upon an algorithm" de Martin Erwing
   * "Computational Fairy Tales" de Jeremy Kubica
+* Le __"Dictionnaire de (presque) tous les nombres entiers"__ de Daniel Lignon aux éditions Ellipses : les clefs sont les entiers naturels successifs (pas tous ...) et les valeurs leurs propriétés avec des focus. Par exemple pour 43, on a un article sur les _nombres Mc Nugget_ puisque 43 est le plus grand entier qui ne peut pas être obtenu comme  6, 9 et 20 (traditionnellement les nombres de beignets de poulet possibles chez Mc Donalds). Les  _nombres Mc Nugget_  sont liés au problème de Frobenius de décomposstion des entiers en somme d'entiers premiers entre eux fixés (le système de monnaie par exemple (6,9,20)). Voir cet article (en anglais) sur le problème de Frobenius <https://mathworld.wolfram.com/CoinProblem.html>. Pour un nombre quelconque d'entiers fixé est un problème NP-complet. Il existe une formule pour deux entiers, un algorithme polynomial mais pas de formule pour trois et rien de connu pour 4. Des problèmes similaires sont ceux du rendu optimal de monnaie => un bon moyen de parler d'algorithmique. A propos d'algorithme glouton, voir l'exercice "Cannelés bordelais" du sujet national des Olympiades académiques de Première 2017 <http://math.univ-lyon1.fr/~lass/sujetlyon17.pdf> . A propos des  _nombres Mc Nugget_   voir cette video de [Scientifcfiz](https://youtu.be/mJ9a_-LT_QA).
 
 ### Des videos en ligne 
 
