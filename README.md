@@ -59,11 +59,9 @@ Mon [diaporama de présentation](GrandOral/Presentation-Grand-Oral.pdf) : rien d
 * Arts et mathématiques :
   * Une galerie en ligne : <http://gallery.bridgesmathart.org/exhibitions/2021-joint-mathematics-meetings>
   
-* Une page consacrée à la préparation du Grand Oral sur un site partagé par des collègues de SVT des lycées français d'Amérique du Nord :
+* Une page consacrée à la préparation du Grand Oral sur un [site](https://sites.google.com/a/prefas.org/svt_am_nord/loral-en-classe-de-svt?authuser=0) partagé par des collègues de SVT des lycées français d'Amérique du Nord  :
 
 [![image](GrandOral/images/grand_oral_aefne.jpeg)](https://sites.google.com/a/prefas.org/svt_am_nord/loral-en-classe-de-svt?authuser=0)
-
-![image](GrandOral/images/grand_oral_aefne.jpeg)
 
 ### Bibliographie :
 
