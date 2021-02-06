@@ -58,6 +58,10 @@ Mon [diaporama de présentation](GrandOral/Presentation-Grand-Oral.pdf) : rien d
 * La plateforme de l'académie de Lyon dédiée à la [culture scientifique](http://culture-scientifique-technique.enseigne.ac-lyon.fr/spip/).
 * Arts et mathématiques :
   * Une galerie en ligne : <http://gallery.bridgesmathart.org/exhibitions/2021-joint-mathematics-meetings>
+  
+* Une page consacrée à la préparation du Grand Oral sur un site partagé par des collègues de SVT des lycées français d'Amérique du Nord :
+
+[![image](images/grand_oral_aefne.jpeg)](https://sites.google.com/a/prefas.org/svt_am_nord/loral-en-classe-de-svt?authuser=0)
 
 
 ### Bibliographie :
