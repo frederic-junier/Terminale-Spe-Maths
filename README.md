@@ -61,8 +61,9 @@ Mon [diaporama de présentation](GrandOral/Presentation-Grand-Oral.pdf) : rien d
   
 * Une page consacrée à la préparation du Grand Oral sur un site partagé par des collègues de SVT des lycées français d'Amérique du Nord :
 
-[![image](images/grand_oral_aefne.jpeg)](https://sites.google.com/a/prefas.org/svt_am_nord/loral-en-classe-de-svt?authuser=0)
+[![image](GrandOral/images/grand_oral_aefne.jpeg)](https://sites.google.com/a/prefas.org/svt_am_nord/loral-en-classe-de-svt?authuser=0)
 
+![image](GrandOral/images/grand_oral_aefne.jpeg)
 
 ### Bibliographie :
 
