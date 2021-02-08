@@ -123,4 +123,5 @@ Journal téléchargeable gratuitement depuis le site <http://www.laficelle.com/>
   * Loi binomiale, planche de Galton : [La courbe en cloche... transparente](http://images.math.cnrs.fr/La-courbe-en-cloche-transparente.html)
 * A propos des échelles de représentation : linéaire ou logarithmique (échelle de Richter ....), une ressource Geogebra de Christian Mercat <https://www.geogebra.org/m/vgyp3kkq>
 * Voyage au cœur de la cryptographie, un article sur [Culture Maths](https://culturemath.ens.fr/thematiques/lycee/voyage-au-coeur-de-la-cryptographie)
+* Les mathématiques du Vendée Globe, activités pédagogiques inspirantes proposés par des collègues de l'académie de Nantes : <https://www.pedagogie.ac-nantes.fr/mathematiques/enseignement/activites-pedagogiques/vendee-globe-2020-lycee-1320098.kjsp?RH=1160079471359>
 
