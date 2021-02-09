@@ -79,7 +79,7 @@ Mon [diaporama de présentation](GrandOral/Presentation-Grand-Oral.pdf) : rien d
 
 * [Conférence de Gérard Berry sur la révolution informatique dans les sciences](https://www.college-de-france.fr/site/gerard-berry/course-2015-01-28-16h00.htm)
 * Chaînes de videos en ligne :
-  * Pour découvrir à travers une petite  approche historique (par des collégiens mais très bien)  : <https://www.youtube.com/channel/UCIUbSRKVVOpWl_xB3soLU1g>
+  * Pour découvrir à travers une petite  approche historique (par des collégiens mais très bien)  : [Scienticfiz](https://www.youtube.com/channel/UCIUbSRKVVOpWl_xB3soLU1g)
   * Pour approfondir : la chaîne de Mickael Launay <https://www.youtube.com/user/Micmaths>
   * Une chaîne YouTube. Des vidéos de vulgarisation mathématique toujours illustrées par des animations fort bien faites par leur créateur Grant Sanderson, qui a étudié les maths à Stanford et qui, après avoir été ingénieur en data sciences, est revenu à ses premières amours avec la chaîne [3blue1Brown](https://www.3blue1brown.com/). 
 On pourra pointer la vidéo sur la modélisation de la propagation du Coronavirus, très claire et à la portée des lycéens. 
@@ -124,4 +124,5 @@ Journal téléchargeable gratuitement depuis le site <http://www.laficelle.com/>
 * A propos des échelles de représentation : linéaire ou logarithmique (échelle de Richter ....), une ressource Geogebra de Christian Mercat <https://www.geogebra.org/m/vgyp3kkq>
 * Voyage au cœur de la cryptographie, un article sur [Culture Maths](https://culturemath.ens.fr/thematiques/lycee/voyage-au-coeur-de-la-cryptographie)
 * Les mathématiques du Vendée Globe, activités pédagogiques inspirantes proposés par des collègues de l'académie de Nantes : <https://www.pedagogie.ac-nantes.fr/mathematiques/enseignement/activites-pedagogiques/vendee-globe-2020-lycee-1320098.kjsp?RH=1160079471359>
+* Nombres décomposables (plein de possibilités, voir le problème de Frobenius) : l'histoire de 1729, le  nombre de [Ramanujan](https://fr.wikipedia.org/wiki/Srinivasa_Ramanujan) dans une video [Scienticfiz](https://youtu.be/zx_t-rIc-BQ). 
 
