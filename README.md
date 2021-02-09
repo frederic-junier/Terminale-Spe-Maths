@@ -65,6 +65,8 @@ Mon [diaporama de présentation](GrandOral/Presentation-Grand-Oral.pdf) : rien d
 
 * A destination des enseignants mais intéressant du point de vue des élèves pour anticiper les critères d'évaluation, le support de formation de Simon Tournerie, Virginie Roche et Johann Boeuf : <https://view.genial.ly/601d2f12a198a90d2050b9e1>
 
+* Plusieurs pistes à explorer depuis la page d'accueil du site de la _Journée internationale des mathématiques_  <https://betterworld.idm314.org/index_fr.html#>
+
 ### Bibliographie :
 
 
