@@ -68,7 +68,7 @@ Mon [diaporama de présentation](GrandOral/Presentation-Grand-Oral.pdf) : rien d
 * Plusieurs pistes à explorer depuis la page d'accueil du site de la _Journée internationale des mathématiques_  <https://betterworld.idm314.org/index_fr.html#>
 
 * Le [blog de mathématiques de Didier Muller](https://www.apprendre-en-ligne.net/blog/index.php/)
-* 
+
 ### Bibliographie :
 
 
