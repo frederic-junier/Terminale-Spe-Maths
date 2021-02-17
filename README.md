@@ -69,6 +69,8 @@ Mon [diaporama de présentation](GrandOral/Presentation-Grand-Oral.pdf) : rien d
 
 * Le [blog de mathématiques de Didier Muller](https://www.apprendre-en-ligne.net/blog/index.php/)
 
+
+
 ### Bibliographie :
 
 
