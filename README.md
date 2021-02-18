@@ -63,6 +63,14 @@ Mon [diaporama de présentation](GrandOral/Presentation-Grand-Oral.pdf) : rien d
 
 [![image](GrandOral/images/grand_oral_aefne.jpeg)](https://sites.google.com/a/prefas.org/svt_am_nord/loral-en-classe-de-svt?authuser=0)
 
+* A destination des enseignants mais intéressant du point de vue des élèves pour anticiper les critères d'évaluation, le support de formation de Simon Tournerie, Virginie Roche et Johann Boeuf : <https://view.genial.ly/601d2f12a198a90d2050b9e1>
+
+* Plusieurs pistes à explorer depuis la page d'accueil du site de la _Journée internationale des mathématiques_  <https://betterworld.idm314.org/index_fr.html#>
+
+* Le [blog de mathématiques de Didier Muller](https://www.apprendre-en-ligne.net/blog/index.php/)
+
+
+
 ### Bibliographie :
 
 
@@ -72,12 +80,13 @@ Mon [diaporama de présentation](GrandOral/Presentation-Grand-Oral.pdf) : rien d
   * "Once upon an algorithm" de Martin Erwing
   * "Computational Fairy Tales" de Jeremy Kubica
 * Le __"Dictionnaire de (presque) tous les nombres entiers"__ de Daniel Lignon aux éditions Ellipses : les clefs sont les entiers naturels successifs (pas tous ...) et les valeurs leurs propriétés avec des focus. Par exemple pour 43, on a un article sur les _nombres Mc Nugget_ puisque 43 est le plus grand entier qui ne peut pas être obtenu comme  6, 9 et 20 (traditionnellement les nombres de beignets de poulet possibles chez Mc Donalds). Les  _nombres Mc Nugget_  sont liés au problème de Frobenius de décomposstion des entiers en somme d'entiers premiers entre eux fixés (le système de monnaie par exemple (6,9,20)). Voir cet article (en anglais) sur le problème de Frobenius <https://mathworld.wolfram.com/CoinProblem.html>. Pour un nombre quelconque d'entiers fixé est un problème NP-complet. Il existe une formule pour deux entiers, un algorithme polynomial mais pas de formule pour trois et rien de connu pour 4. Des problèmes similaires sont ceux du rendu optimal de monnaie => un bon moyen de parler d'algorithmique. A propos d'algorithme glouton, voir l'exercice "Cannelés bordelais" du sujet national des Olympiades académiques de Première 2017 <http://math.univ-lyon1.fr/~lass/sujetlyon17.pdf> . A propos des  _nombres Mc Nugget_   voir cette video de [Scientifcfiz](https://youtu.be/mJ9a_-LT_QA).
+* Le [Dictionnaire décalé des mathématiques](https://www.apprendre-en-ligne.net/blog/index.php/2021/02/11/3939-dictionnaire-decale-des-mathematiques) d'Elisabeth Busser et Bertrand Hauchecorne avec une préface de Cédric Villani.
 
 ### Des videos en ligne 
 
 * [Conférence de Gérard Berry sur la révolution informatique dans les sciences](https://www.college-de-france.fr/site/gerard-berry/course-2015-01-28-16h00.htm)
 * Chaînes de videos en ligne :
-  * Pour découvrir à travers une petite  approche historique (par des collégiens mais très bien)  : <https://www.youtube.com/channel/UCIUbSRKVVOpWl_xB3soLU1g>
+  * Pour découvrir à travers une petite  approche historique (par des collégiens mais très bien)  : [Scienticfiz](https://www.youtube.com/channel/UCIUbSRKVVOpWl_xB3soLU1g)
   * Pour approfondir : la chaîne de Mickael Launay <https://www.youtube.com/user/Micmaths>
   * Une chaîne YouTube. Des vidéos de vulgarisation mathématique toujours illustrées par des animations fort bien faites par leur créateur Grant Sanderson, qui a étudié les maths à Stanford et qui, après avoir été ingénieur en data sciences, est revenu à ses premières amours avec la chaîne [3blue1Brown](https://www.3blue1brown.com/). 
 On pourra pointer la vidéo sur la modélisation de la propagation du Coronavirus, très claire et à la portée des lycéens. 
@@ -121,4 +130,8 @@ Journal téléchargeable gratuitement depuis le site <http://www.laficelle.com/>
   * Loi binomiale, planche de Galton : [La courbe en cloche... transparente](http://images.math.cnrs.fr/La-courbe-en-cloche-transparente.html)
 * A propos des échelles de représentation : linéaire ou logarithmique (échelle de Richter ....), une ressource Geogebra de Christian Mercat <https://www.geogebra.org/m/vgyp3kkq>
 * Voyage au cœur de la cryptographie, un article sur [Culture Maths](https://culturemath.ens.fr/thematiques/lycee/voyage-au-coeur-de-la-cryptographie)
-
+* Les mathématiques du Vendée Globe, activités pédagogiques inspirantes proposés par des collègues de l'académie de Nantes : <https://www.pedagogie.ac-nantes.fr/mathematiques/enseignement/activites-pedagogiques/vendee-globe-2020-lycee-1320098.kjsp?RH=1160079471359>
+* Nombres décomposables (plein de possibilités, voir le problème de Frobenius) : l'histoire de 1729, le  [nombre de Ramanujan](https://en.wikipedia.org/wiki/Taxicab_number) dans une video [Scienticfiz](https://youtu.be/zx_t-rIc-BQ). Un exemple de programme pour le déterminer dans [Basthon](https://console.basthon.fr/?script=eJxtUUFugzAQvCPxh1VOdoqqot4i9Qs59IoQWhuTujUGGaNWQvl715gSaLKn3fHM7GhdqwaGFo1Rg688_uhKomD8lCZAVSvZtT28Qa2lZzyCQl8IyeMQJDS9xOn7QxsFtvMzvpiEajoHRntPr9qCQ3tRLM9mqyfI-YYZSo5Cy2oYW3IOlOMRXom3GIRpz9fNRkL-MfY_003alXzPiNIiEMtn7Htla8bi4oyicH4vEU7h1x5WZlAP1i_m6_qSshRb9_KmmU-zntkpPzo75892GdMkTSJaMKSD8gyYJAoP3g8-Nk16p61nzeHctZSczOAdW7TjJ1o4wRSoV9JOeP27-ySWllB5Q-vYHvgv8YGZvQ).  On trouve plein de références au  [nombre de Ramanujan](https://en.wikipedia.org/wiki/Taxicab_number)  dans l'animé [Futurama](http://culturedj.owni.fr/2011/06/16/les-maths-par-futurama/index.html), voir cet [article](https://www.bbc.com/news/magazine-24459279). Plus généralement, les références aux mathématiques sont nombreuses dans  [Futurama](http://culturedj.owni.fr/2011/06/16/les-maths-par-futurama/index.html).
+* Autour de la décomposition en base deux :
+  * Multiplication éthiopienne : <http://images.math.cnrs.fr/Comment-multiplier-en-ne-connaissant-que-la-table-de-2.html>
+  * Tour de magie et numération binaire : :<https://video.math.cnrs.fr/magie-en-base-deux/>
