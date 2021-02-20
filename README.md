@@ -135,3 +135,6 @@ Journal téléchargeable gratuitement depuis le site <http://www.laficelle.com/>
 * Autour de la décomposition en base deux :
   * Multiplication éthiopienne : <http://images.math.cnrs.fr/Comment-multiplier-en-ne-connaissant-que-la-table-de-2.html>
   * Tour de magie et numération binaire : :<https://video.math.cnrs.fr/magie-en-base-deux/>
+* Autour du thème de l'infini en mathématiques :
+   * Article page 124 du "Dictionnaire décales des Mathématiques" de E.Busser et B.Hauchecorne : émergence du concept (_infini actuel_ et _infini potentiel_)
+   * Preuve que l'ensemble des réels est non dénombrable par [l'argument diagonal de Cantor](https://fr.wikipedia.org/wiki/Argument_de_la_diagonale_de_Cantor) => on pourrait travailler autour des idées en démonstration puisque l [l'argument diagonal de Cantor](https://fr.wikipedia.org/wiki/Argument_de_la_diagonale_de_Cantor) a été utilisé dans d'autres questions : [problème de l'arrêt](https://fr.wikipedia.org/wiki/Probl%C3%A8me_de_l%27arr%C3%AAt) , [paradoxe de Russel](https://fr.wikipedia.org/wiki/Paradoxe_de_Russell) => les paradoxes logiques se prêtent bien à un exposé oral.
