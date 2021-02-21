@@ -140,6 +140,6 @@ Journal téléchargeable gratuitement depuis le site <http://www.laficelle.com/>
    * Article page 124 du "Dictionnaire décales des Mathématiques" de E.Busser et B.Hauchecorne : émergence du concept (_infini actuel_ et _infini potentiel_)
    * Preuve que l'ensemble des réels est non dénombrable par [l'argument diagonal de Cantor](https://fr.wikipedia.org/wiki/Argument_de_la_diagonale_de_Cantor) => on pourrait travailler autour des idées en démonstration puisque l [l'argument diagonal de Cantor](https://fr.wikipedia.org/wiki/Argument_de_la_diagonale_de_Cantor) a été utilisé dans d'autres questions : [problème de l'arrêt](https://fr.wikipedia.org/wiki/Probl%C3%A8me_de_l%27arr%C3%AAt) , [paradoxe de Russel](https://fr.wikipedia.org/wiki/Paradoxe_de_Russell) => les paradoxes logiques se prêtent bien à un exposé oral.
 
-![infini](images/infini.png)
+![infini](GrandOral/images/infini.png)
 
 * Probabilités conditionnelles et formule de Bayes : application aux valeurs prédictives et tests et aux filtres anti-spam, un article sur [Culture Maths](https://culturemath.ens.fr/thematiques/concours-d-enseignement/les-probabilites-ont-la-cote)
