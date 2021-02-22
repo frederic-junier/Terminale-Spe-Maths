@@ -143,3 +143,4 @@ Journal téléchargeable gratuitement depuis le site <http://www.laficelle.com/>
 ![infini](GrandOral/images/infini.png)
 
 * Probabilités conditionnelles et formule de Bayes : application aux valeurs prédictives et tests et aux filtres anti-spam, un article sur [Culture Maths](https://culturemath.ens.fr/thematiques/concours-d-enseignement/les-probabilites-ont-la-cote)
+*  Démonstration de Feynman pour la loi des aires de Kepler présentée par Benoit Rittaud : _le triomphe des mathématiques pour expliquer les lois physiques_ <http://images.math.cnrs.fr/La-loi-des-aires-par-Benoit-Rittaud>
