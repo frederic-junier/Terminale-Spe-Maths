@@ -145,7 +145,7 @@ Plus généralement sur le nombres premiers, voir la [Conférence de Daniel Perr
    * Article page 124 du "Dictionnaire décales des Mathématiques" de E.Busser et B.Hauchecorne : émergence du concept (_infini actuel_ et _infini potentiel_)
    * Preuve que l'ensemble des réels est non dénombrable par [l'argument diagonal de Cantor](https://fr.wikipedia.org/wiki/Argument_de_la_diagonale_de_Cantor) => on pourrait travailler autour des idées en démonstration puisque l [l'argument diagonal de Cantor](https://fr.wikipedia.org/wiki/Argument_de_la_diagonale_de_Cantor) a été utilisé dans d'autres questions : [problème de l'arrêt](https://fr.wikipedia.org/wiki/Probl%C3%A8me_de_l%27arr%C3%AAt) , [paradoxe de Russel](https://fr.wikipedia.org/wiki/Paradoxe_de_Russell) => les paradoxes logiques se prêtent bien à un exposé oral.
    * Preuve d'Euclide qu'il y a une infinité de nombres premeirs (explicable à l'oral)
-   * [Paradoxe d'Achille et la tortue]() : lien avec les limites de suites
+   * [Paradoxe d'Achille et la tortue](https://fr.m.wikipedia.org/wiki/Paradoxe_d%27Achille_et_de_la_tortue) : lien avec les limites de suites
    * [Paradoxde Saint Petersbourg](https://fr.wikipedia.org/wiki/Paradoxe_de_Saint-P%C3%A9tersbourg) : nombreuses entrées possibles : histoire de la [famille de mathématiciens Bernoulli](https://youtu.be/jWut-6jBl3U), loi géométrique et espérance mathématique, lien avec la théorie de la décision (SES)
 
 ![infini](GrandOral/images/infini.png)
