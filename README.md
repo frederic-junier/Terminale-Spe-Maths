@@ -150,3 +150,4 @@ Journal téléchargeable gratuitement depuis le site <http://www.laficelle.com/>
      * Isaac Newton mathématicien ou physicien ?
      * Les mathématiques une science sans passion ni polémiques ?    => polémique entre Newton et Leibniz sur la paternité du calcul différentiel
 *  Paradoxes en mathématiques : de nombreuses possibilités pour l'oral => voir l'article _paradoxes_  dans  [Dictionnaire décalé des mathématiques](https://www.apprendre-en-ligne.net/blog/index.php/2021/02/11/3939-dictionnaire-decale-des-mathematiques) 
+*  Optimisation : [problème de Didon](http://serge.mehl.free.fr/anx/pb_didon.html) et [inégalités isopérimétriques](https://culturemath.ens.fr/thematiques/geometrie/les-theoremes-isoperimetriques)
