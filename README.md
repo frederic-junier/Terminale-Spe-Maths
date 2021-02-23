@@ -130,7 +130,12 @@ Journal téléchargeable gratuitement depuis le site <http://www.laficelle.com/>
   * Combinatoire : [Démarrage trompeur](https://images.math.cnrs.fr/+Demarrage-trompeur+)
   * Loi binomiale, planche de Galton : [La courbe en cloche... transparente](http://images.math.cnrs.fr/La-courbe-en-cloche-transparente.html)
 * A propos des échelles de représentation : linéaire ou logarithmique (échelle de Richter ....), une ressource Geogebra de Christian Mercat <https://www.geogebra.org/m/vgyp3kkq>
-* Voyage au cœur de la cryptographie, un article sur [Culture Maths](https://culturemath.ens.fr/thematiques/lycee/voyage-au-coeur-de-la-cryptographie)
+* Voyage au cœur de la cryptographie, un article sur [Culture Maths](https://culturemath.ens.fr/thematiques/lycee/voyage-au-coeur-de-la-cryptographie).
+Plus généralement sur le nombres premiers, voir la [Conférence de Daniel Perrin](https://youtu.be/dBTF2M3M1Uk) :
+   * cryptographie (applications informatiques) voir https://culturemath.ens.fr/thematiques/lycee/voyage-au-coeur-de-la-cryptographie
+   * infinité (euclide) => bien pour l'oral
+   * répartition (logarithme, crible d'ératosthène)
+   * conjectures (golbach, nombres premiers jumeaux)
 * Les mathématiques du Vendée Globe, activités pédagogiques inspirantes proposés par des collègues de l'académie de Nantes : <https://www.pedagogie.ac-nantes.fr/mathematiques/enseignement/activites-pedagogiques/vendee-globe-2020-lycee-1320098.kjsp?RH=1160079471359>
 * Nombres décomposables (plein de possibilités, voir le problème de Frobenius) : l'histoire de 1729, le  [nombre de Ramanujan](https://en.wikipedia.org/wiki/Taxicab_number) dans une video [Scienticfiz](https://youtu.be/zx_t-rIc-BQ). Un exemple de programme pour le déterminer dans [Basthon](https://console.basthon.fr/?script=eJxtUUFugzAQvCPxh1VOdoqqot4i9Qs59IoQWhuTujUGGaNWQvl715gSaLKn3fHM7GhdqwaGFo1Rg688_uhKomD8lCZAVSvZtT28Qa2lZzyCQl8IyeMQJDS9xOn7QxsFtvMzvpiEajoHRntPr9qCQ3tRLM9mqyfI-YYZSo5Cy2oYW3IOlOMRXom3GIRpz9fNRkL-MfY_003alXzPiNIiEMtn7Htla8bi4oyicH4vEU7h1x5WZlAP1i_m6_qSshRb9_KmmU-zntkpPzo75892GdMkTSJaMKSD8gyYJAoP3g8-Nk16p61nzeHctZSczOAdW7TjJ1o4wRSoV9JOeP27-ySWllB5Q-vYHvgv8YGZvQ).  On trouve plein de références au  [nombre de Ramanujan](https://en.wikipedia.org/wiki/Taxicab_number)  dans l'animé [Futurama](http://culturedj.owni.fr/2011/06/16/les-maths-par-futurama/index.html), voir cet [article](https://www.bbc.com/news/magazine-24459279). Plus généralement, les références aux mathématiques sont nombreuses dans  [Futurama](http://culturedj.owni.fr/2011/06/16/les-maths-par-futurama/index.html).
 * Autour de la décomposition en base deux :
