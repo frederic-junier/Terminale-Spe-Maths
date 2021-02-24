@@ -156,3 +156,5 @@ Plus généralement sur le nombres premiers, voir la [Conférence de Daniel Perr
      * Les mathématiques une science sans passion ni polémiques ?    => polémique entre Newton et Leibniz sur la paternité du calcul différentiel
 *  Paradoxes en mathématiques : de nombreuses possibilités pour l'oral => voir l'article _paradoxes_  dans  [Dictionnaire décalé des mathématiques](https://www.apprendre-en-ligne.net/blog/index.php/2021/02/11/3939-dictionnaire-decale-des-mathematiques) 
 *  Optimisation : [problème de Didon](http://serge.mehl.free.fr/anx/pb_didon.html) et [inégalités isopérimétriques](https://culturemath.ens.fr/thematiques/geometrie/les-theoremes-isoperimetriques)
+*  A propos de l'efficacité de la vaccination, un exemple historique intéressant (lien avec les équations différentielles mais la justification de la solution de l'équation est technique, on pourrait se contenter de donner l'équation finale et sa solution avec les outils de terminale)
+http://images.math.cnrs.fr/Daniel-Bernoulli-pionnier-des-modeles-mathematiques-en-medecine
