@@ -113,7 +113,7 @@ Sites ressources :
 * <http://serge.mehl.free.fr/>  =>  ma référence
 * Femmes et mathématiques :
     * Quizz : http://revue.sesamath.net/spip.php?article1372
-    *  <https://podcast.ausha.co/sophie-germain-project>  =>   très bon podcast
+    *  <https://podcast.ausha.co/sophie-germain-project>  =>   très bon podcast sur Sophie Germain qui élargit sur la place des femmes en sciences
   
 ### Des idées :
 
