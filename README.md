@@ -169,3 +169,8 @@ Plus généralement sur le nombres premiers, voir la [Conférence de Daniel Perr
 * Thèmes en lien avec le  logarithme :
    * Introduction historique : Magnifiques logarithmes par Benoit Rittaud (logarithmes, tables de calcul, histoire, aire sous l’hyperbole …) : [Video Audimaths](https://youtu.be/sgsJuqaiCCM) => la démonstration que l’aire sous la courbe d’un arce d’hyperbole entre 1 et u x v vérifie la relation fondamentale du logarithme pourrait être réexploitée.
    * A propos des échelles de représentation : linéaire ou logarithmique (échelle de Richter ....), une ressource Geogebra de Christian Mercat <https://www.geogebra.org/m/vgyp3kkq>  et cet article <http://images.math.cnrs.fr/Epidemie-et-logarithme>
+* En lien avec __l'économie__ :
+   * <https://culturemath.ens.fr/thematiques/concours-d-enseignement/les-cles-du-credit>
+* En lien avec la théorie des jeux :
+   * Un très bon article sur le jeu de Nim (l'un des rares à stratégie gagnante connue) avec une ouverture culturelle <https://culturemath.ens.fr/thematiques/lycee/la-theorie-des-jeux-a-l-ecran>  => l'exposé oral me semble possible
+   * Pour le jeu de [hex](https://fr.wikipedia.org/wiki/Hex)  John Nash a démontré qu'une stratégie gagnante existe mais on ne sait pas en construire une
