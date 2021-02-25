@@ -104,7 +104,16 @@ On pourra pointer la vidéo sur la modélisation de la propagation du Coronaviru
 * [Conférence de Cédric Villani : "Tout est mathématiques"](https://youtu.be/rLFUnCUyPko):
   * De la recherche fondamentale aux applications inattendues : courbure de Riemmann à la théorie de la relativité et aux GPS, distribution statistique des zéros de fonction zeta de Riemman et niveaux d'énergie des atomes
   * Formule de Boltzmann, entropie $s= k log(w)$ apprivoiser le hasard (Galton, loi des erreurs de Laplace etc ...)
-  
+
+### Histoire des mathématiques 
+
+Sites ressources :
+
+* <https://hist-math.fr/>  => très bien car liens avec les programmes, interface ergonomique et accès à des textes originaux
+* <http://serge.mehl.free.fr/>  =>  ma référence
+* Femmes et mathématiques :
+    * Quizz : http://revue.sesamath.net/spip.php?article1372
+    *  <https://podcast.ausha.co/sophie-germain-project>  =>   très bon podcast
   
 ### Des idées :
 
