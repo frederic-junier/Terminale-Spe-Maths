@@ -95,7 +95,7 @@ On pourra pointer la vidéo sur la modélisation de la propagation du Coronaviru
   * Le site VideoMaths du CNRS rassemble de nombreuses videos qui pourraient donner des idées de questions pour le grand oral : <http://video.math.cnrs.fr/> avec souvent des ouvertures sur d'autres disciplines :
     * Couplage Maths/Physique, modélisation de la propagation de la chaleur avec les carrés magiques de Dirichlet, principe du maximum et preuve d'unicité, questions que peut se pose un mathématicien, théorème de convergence monotone : _Existe-t-il une solution ? Est-elle unique ? Peut-on la construire ?_ :  [Video Audimaths](https://youtu.be/2oq1UDpqEGQ)
     * La format de papier A4 (suites, second degré) :[Video Audimaths](https://youtu.be/sgsJuqaiCCM)
-    * Magnifiques logarithmes par Benoit Rittaud (logarithmes, tables de calcul, histoire, aire sous l'hyperbole ...) : [Video Audimaths](https://youtu.be/-NcKh-qvb_g)  => la démonstration que l'aire sous la courbe d'un arce d'hyperbole entre 1 et u x v vérifie la relation fondamentale du logarithme pourrait être réexploitée.
+    * Magnifiques logarithmes par Benoit Rittaud (logarithmes, tables de calcul, histoire, aire sous l'hyperbole ...) : [Video Audimaths](https://youtu.be/-NcKh-qvb_g)  => la démonstration que l'aire sous la courbe d'un arce d'hyperbole entre 1 et u x v vérifie la relation fondamentale du logarithme pourrait être réexploitée. 
 
 * [Conférence de Daniel Perrin](https://youtu.be/dBTF2M3M1Uk)  _Cryptographie et nombres premiers_ avec plein d'anecdotes historiques :
   * Les mathématiques sont utiles : tunnel de Samos, fonction exponentielle et datation, comment gagner à un jeu télévisé (jeu de Monty Hall)
@@ -129,7 +129,6 @@ Journal téléchargeable gratuitement depuis le site <http://www.laficelle.com/>
   * A propos des différentes preuves du théorème de Pythagore : <http://images.math.cnrs.fr/Encore-une-preuve-du-theoreme-de-Pythagore.html>
   * Combinatoire : [Démarrage trompeur](https://images.math.cnrs.fr/+Demarrage-trompeur+)
   * Loi binomiale, planche de Galton : [La courbe en cloche... transparente](http://images.math.cnrs.fr/La-courbe-en-cloche-transparente.html)
-* A propos des échelles de représentation : linéaire ou logarithmique (échelle de Richter ....), une ressource Geogebra de Christian Mercat <https://www.geogebra.org/m/vgyp3kkq>
 * Voyage au cœur de la cryptographie, un article sur [Culture Maths](https://culturemath.ens.fr/thematiques/lycee/voyage-au-coeur-de-la-cryptographie).
 Plus généralement sur le nombres premiers, voir la [Conférence de Daniel Perrin](https://youtu.be/dBTF2M3M1Uk) :
    * cryptographie (applications informatiques) voir https://culturemath.ens.fr/thematiques/lycee/voyage-au-coeur-de-la-cryptographie
@@ -157,4 +156,7 @@ Plus généralement sur le nombres premiers, voir la [Conférence de Daniel Perr
 *  Paradoxes en mathématiques : de nombreuses possibilités pour l'oral => voir l'article _paradoxes_  dans  [Dictionnaire décalé des mathématiques](https://www.apprendre-en-ligne.net/blog/index.php/2021/02/11/3939-dictionnaire-decale-des-mathematiques) 
 *  Optimisation : [problème de Didon](http://serge.mehl.free.fr/anx/pb_didon.html) et [inégalités isopérimétriques](https://culturemath.ens.fr/thematiques/geometrie/les-theoremes-isoperimetriques)
 *  A propos de l'efficacité de la vaccination, un exemple historique intéressant (lien avec les équations différentielles mais la justification de la solution de l'équation est technique, on pourrait se contenter de donner l'équation finale et sa solution avec les outils de terminale)
-http://images.math.cnrs.fr/Daniel-Bernoulli-pionnier-des-modeles-mathematiques-en-medecine
+<http://images.math.cnrs.fr/Daniel-Bernoulli-pionnier-des-modeles-mathematiques-en-medecine>
+* Thèmes en lien avec le  logarithme :
+   * Introduction historique : Magnifiques logarithmes par Benoit Rittaud (logarithmes, tables de calcul, histoire, aire sous l’hyperbole …) : [Video Audimaths](https://youtu.be/sgsJuqaiCCM) => la démonstration que l’aire sous la courbe d’un arce d’hyperbole entre 1 et u x v vérifie la relation fondamentale du logarithme pourrait être réexploitée.
+   * A propos des échelles de représentation : linéaire ou logarithmique (échelle de Richter ....), une ressource Geogebra de Christian Mercat <https://www.geogebra.org/m/vgyp3kkq>  et cet article <http://images.math.cnrs.fr/Epidemie-et-logarithme>
