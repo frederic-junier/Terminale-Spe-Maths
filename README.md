@@ -174,3 +174,6 @@ Plus généralement sur le nombres premiers, voir la [Conférence de Daniel Perr
 * En lien avec la théorie des jeux :
    * Un très bon article sur le jeu de Nim (l'un des rares à stratégie gagnante connue) avec une ouverture culturelle <https://culturemath.ens.fr/thematiques/lycee/la-theorie-des-jeux-a-l-ecran>  => l'exposé oral me semble possible
    * Pour le jeu de [hex](https://fr.wikipedia.org/wiki/Hex)  John Nash a démontré qu'une stratégie gagnante existe mais on ne sait pas en construire une
+* Radioactivité, zones de rémanence :
+    * surveillance alimentaire mise en place après l'accident de Tchernobyl <https://www.economie.gouv.fr/dgccrf/contamination-radioactive-des-denrees-dorigine-vegetale-resultats-des-analyses-dgccrf#n5>
+    * le retour de l'histoire (France/Algérie, essais nucléaires) à travers une tempête de sable <https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/jura/les-poussieres-de-sable-du-sahara-etaient-porteuses-de-cesium-137-residu-d-anciens-essais-nucleaires-francais-1973641.html>
