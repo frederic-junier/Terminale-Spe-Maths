@@ -156,8 +156,8 @@ Plus généralement sur le nombres premiers, voir la [Conférence de Daniel Perr
    * [Paradoxe d'Achille et la tortue](https://fr.m.wikipedia.org/wiki/Paradoxe_d%27Achille_et_de_la_tortue) : lien avec les limites de suites
    * [Paradoxde Saint Petersbourg](https://fr.wikipedia.org/wiki/Paradoxe_de_Saint-P%C3%A9tersbourg) : nombreuses entrées possibles : histoire de la [famille de mathématiciens Bernoulli](https://youtu.be/jWut-6jBl3U), loi géométrique et espérance mathématique, lien avec la théorie de la décision (SES)
    * L'histoire des  séries infinies d'Euler à Ramanujan :
-    * Une histoire de Bernard Ycart <https://hist-math.fr/eulera-auto#/>
-    * Les suites qui rendent fou  <http://villemin.gerard.free.fr/Wwwgvmm/Suite/Suitfou.htm>
+     * Une histoire de Bernard Ycart <https://hist-math.fr/eulera-auto#/>
+     * Les suites qui rendent fou  <http://villemin.gerard.free.fr/Wwwgvmm/Suite/Suitfou.htm>
    * Histoire de la notion de limite d'Archimède à Ramanujan en passant par la formule de Viète : une histoire de Bernard Ycart <https://hist-math.fr/ramanujan-auto#/>, voir aussi <https://fr.wikipedia.org/wiki/Formule_de_Vi%C3%A8te>
 
 ![infini](GrandOral/images/infini.png)
