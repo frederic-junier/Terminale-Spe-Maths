@@ -109,7 +109,7 @@ On pourra pointer la vidéo sur la modélisation de la propagation du Coronaviru
 
 Sites ressources :
 
-* <https://hist-math.fr/>  => très bien car liens avec les programmes, interface ergonomique et accès à des textes originaux
+* <https://hist-math.fr/>  => formidable site de Bernard Ycart, des histoires en audio, des liens avec les programmes de lycé, recherche par mot thèmes ou personnages et accès à des textes originaux
 * <http://serge.mehl.free.fr/>  =>  ma référence
 * Femmes et mathématiques :
     * Quizz : http://revue.sesamath.net/spip.php?article1372
@@ -155,6 +155,10 @@ Plus généralement sur le nombres premiers, voir la [Conférence de Daniel Perr
    * Preuve d'Euclide qu'il y a une infinité de nombres premeirs (explicable à l'oral)
    * [Paradoxe d'Achille et la tortue](https://fr.m.wikipedia.org/wiki/Paradoxe_d%27Achille_et_de_la_tortue) : lien avec les limites de suites
    * [Paradoxde Saint Petersbourg](https://fr.wikipedia.org/wiki/Paradoxe_de_Saint-P%C3%A9tersbourg) : nombreuses entrées possibles : histoire de la [famille de mathématiciens Bernoulli](https://youtu.be/jWut-6jBl3U), loi géométrique et espérance mathématique, lien avec la théorie de la décision (SES)
+   * L'histoire des  séries infinies d'Euler à Ramanujan :
+    * Une histoire de Bernard Ycart <https://hist-math.fr/eulera-auto#/>
+    * Les suites qui rendent fou  <http://villemin.gerard.free.fr/Wwwgvmm/Suite/Suitfou.htm>
+   * Histoire de la notion de limite d'Archimède à Ramanujan en passant par la formule de Viète : une histoire de Bernard Ycart <https://hist-math.fr/ramanujan-auto#/>, voir aussi <https://fr.wikipedia.org/wiki/Formule_de_Vi%C3%A8te>
 
 ![infini](GrandOral/images/infini.png)
 
@@ -177,3 +181,4 @@ Plus généralement sur le nombres premiers, voir la [Conférence de Daniel Perr
 * Radioactivité, zones de rémanence :
     * surveillance alimentaire mise en place après l'accident de Tchernobyl <https://www.economie.gouv.fr/dgccrf/contamination-radioactive-des-denrees-dorigine-vegetale-resultats-des-analyses-dgccrf#n5>
     * le retour de l'histoire (France/Algérie, essais nucléaires) à travers une tempête de sable <https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/jura/les-poussieres-de-sable-du-sahara-etaient-porteuses-de-cesium-137-residu-d-anciens-essais-nucleaires-francais-1973641.html>
+* A propos de 
