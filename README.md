@@ -158,7 +158,7 @@ Plus généralement sur le nombres premiers, voir la [Conférence de Daniel Perr
    * L'histoire des  séries infinies d'Euler à Ramanujan :
      * Une histoire de Bernard Ycart <https://hist-math.fr/eulera-auto#/>
      * Les suites qui rendent fou  <http://villemin.gerard.free.fr/Wwwgvmm/Suite/Suitfou.htm>
-   * Histoire de la notion de limite d'Archimède à Ramanujan en passant par la formule de Viète : une histoire de Bernard Ycart <https://hist-math.fr/ramanujan-auto#/>, voir aussi <https://fr.wikipedia.org/wiki/Formule_de_Vi%C3%A8te>
+   * Histoire de la notion de limite d'Archimède à Ramanujan en passant par Euler, le produit de Wallis, la formule de Viète : une histoire de Bernard Ycart <https://hist-math.fr/ramanujan-auto#/>, voir aussi <https://fr.wikipedia.org/wiki/Formule_de_Vi%C3%A8te>
 
 ![infini](GrandOral/images/infini.png)
 
