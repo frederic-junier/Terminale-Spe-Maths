@@ -66,7 +66,13 @@ __Ressources :__
 
 
 
+# Sujet 6 :  la série harmonique :
 
+__Ressources :__
+
+* Preuve de la divergence par Oresme racontée par Bernard Ycart : <https://hist-math.fr/eulera-auto#/14>
+* Sur le site de Serge Mehl :  <http://serge.mehl.free.fr/chrono/BernoulliJean.html#harmo>
+* Analogie de la série harmonique avec certains proverbes : <http://images.math.cnrs.fr/Serie-harmonique-et-sagesse-populaire>
 
   
 

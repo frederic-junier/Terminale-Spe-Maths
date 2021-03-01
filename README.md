@@ -190,4 +190,8 @@ Plus généralement sur le nombres premiers, voir la [Conférence de Daniel Perr
 * Radioactivité, zones de rémanence :
     * surveillance alimentaire mise en place après l'accident de Tchernobyl <https://www.economie.gouv.fr/dgccrf/contamination-radioactive-des-denrees-dorigine-vegetale-resultats-des-analyses-dgccrf#n5>
     * le retour de l'histoire (France/Algérie, essais nucléaires) à travers une tempête de sable <https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/jura/les-poussieres-de-sable-du-sahara-etaient-porteuses-de-cesium-137-residu-d-anciens-essais-nucleaires-francais-1973641.html>
+* Série harmonique :
+  * Preuve de la divergence par Oresme racontée par Bernard Ycart : <https://hist-math.fr/eulera-auto#/14>
+  * Sur le site de Serge Mehl :  <http://serge.mehl.free.fr/chrono/BernoulliJean.html#harmo>
+  * Analogie de la série harmonique avec certains proverbes : <http://images.math.cnrs.fr/Serie-harmonique-et-sagesse-populaire>
 
