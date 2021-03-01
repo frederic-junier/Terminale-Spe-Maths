@@ -12,7 +12,7 @@ geometry:
 --- 
 
 
-# Sujet 1 : Flocon de Von Koch et fracatales
+# Sujet 1 : Flocon de Von Koch, fractales et suites
 
 
 _Ressources :_
@@ -44,18 +44,29 @@ _Ressources :_
 
 _Ressources :_
 
+*  S'appuyer sur cet article du site de Serge Mehl : <http://serge.mehl.free.fr/anx/exhaustion.html>
+* Axiome d'Archimède :
+    >En soustrayant de la plus grande de deux grandeurs données plus de sa moitié, et du reste plus de sa moitié, et ainsi de suite, on obtiendra une grandeur moindre que la plus petite. 
 *  Site de Bernard Ycart : <https://hist-math.fr/archimedea-auto#/16>
-*  Site de Serge Mehl : <http://serge.mehl.free.fr/anx/exhaustion.html>
+
+
+
+# Sujet 5 : approximations de pi une longue histoire d'Archimède à nos jours en passant par Viète et Ramanujan :
+
+
+__Ressources :__
+
+* Approximation de pi par encadrement du périmètre d'une cercle avec ceux des polygones inscrits et exinscrits, méthode d'Arcimède : <http://villemin.gerard.free.fr/Wwwgvmm/Geometri/PiCalcul.htm>
+* Formule de Viète :
+  *  Site de Serge Mehl : <http://serge.mehl.free.fr/anx/form_viete.html>
+  *  Site de Bernard Ycart : <https://hist-math.fr/ramanujan-auto#/25>
+  *  Wikipedia : <https://fr.wikipedia.org/wiki/Formule_de_Vi%C3%A8te>
+* Formules de Ramanujan :
+  * Site de Bernard Ycart : <https://hist-math.fr/ramanujan-auto#/12>
 
 
 
 
-# Sujet 5 : la formule de Viète le premier exemple de nombre défini par une limite
 
-_Ressources :_
-
-*  Site de Serge Mehl : <http://serge.mehl.free.fr/anx/form_viete.html>
-*  Site de Bernard Ycart : <https://hist-math.fr/ramanujan-auto#/25>
-*  Wikipedia : <https://fr.wikipedia.org/wiki/Formule_de_Vi%C3%A8te>
   
 
