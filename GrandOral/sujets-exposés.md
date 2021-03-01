@@ -56,7 +56,7 @@ _Ressources :_
 
 __Ressources :__
 
-* Approximation de pi par encadrement du périmètre d'une cercle avec ceux des polygones inscrits et exinscrits, méthode d'Arcimède : <http://villemin.gerard.free.fr/Wwwgvmm/Geometri/PiCalcul.htm>
+* Approximation de pi par encadrement du périmètre d'une cercle avec ceux des polygones inscrits et exinscrits, méthode d'Archimède : <http://villemin.gerard.free.fr/Wwwgvmm/Geometri/PiCalcul.htm>
 * Formule de Viète :
   *  Site de Serge Mehl : <http://serge.mehl.free.fr/anx/form_viete.html>
   *  Site de Bernard Ycart : <https://hist-math.fr/ramanujan-auto#/25>
