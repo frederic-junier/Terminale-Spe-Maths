@@ -111,10 +111,19 @@ Sites ressources :
 
 * <https://hist-math.fr/>  => formidable site de Bernard Ycart, des histoires en audio, des liens avec les programmes de lycé, recherche par mot thèmes ou personnages et accès à des textes originaux
 * <http://serge.mehl.free.fr/>  =>  ma référence
+* <http://villemin.gerard.free.fr/> => un site avec plein d'histoires sur les nombres
 * Femmes et mathématiques :
     * Quizz : http://revue.sesamath.net/spip.php?article1372
     *  <https://podcast.ausha.co/sophie-germain-project>  =>   très bon podcast sur Sophie Germain qui élargit sur la place des femmes en sciences
   
+  
+### Exposés oraux
+
+
+* [Sujets 2020/2021](GrandOral/exposés/sujets-exposés.md)
+
+
+
 ### Des idées :
 
 * Sport : comment prédire le classement final d'un championnat de foot ?  <https://www.statsperform.com/resource/why-2021-could-be-the-year-of-change-in-european-football/>
