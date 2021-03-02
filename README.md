@@ -194,5 +194,7 @@ Plus généralement sur le nombres premiers, voir la [Conférence de Daniel Perr
   * Preuve de la divergence par Oresme racontée par Bernard Ycart : <https://hist-math.fr/eulera-auto#/14>
   * Sur le site de Serge Mehl :  <http://serge.mehl.free.fr/chrono/BernoulliJean.html#harmo>
   * Analogie de la série harmonique avec certains proverbes : <http://images.math.cnrs.fr/Serie-harmonique-et-sagesse-populaire>
-* Probabilités conditionnelles, espérance : <hhttps://www.franceculture.fr/conferences/universite-de-nantes/pourquoi-lappat-du-gain-lemporte-t-il-sur-le-risque-de-perdre?utm_medium=Social&utm_source=Twitter#Echobox=1614608976>, à mettre en lien avec le paradoxe de St Petersbourg.
+* Probabilités :
+   * probabilités conditionnelles, problème historique, _le problème des partis_  raconté par Bernard Ycart <https://hist-math.fr/pacioli-auto#>
+   * probabilités conditionnelles, espérance : <hhttps://www.franceculture.fr/conferences/universite-de-nantes/pourquoi-lappat-du-gain-lemporte-t-il-sur-le-risque-de-perdre?utm_medium=Social&utm_source=Twitter#Echobox=1614608976>, à mettre en lien avec le paradoxe de St Petersbourg.
 
