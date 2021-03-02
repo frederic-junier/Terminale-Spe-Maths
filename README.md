@@ -205,4 +205,4 @@ Plus généralement sur le nombres premiers, voir la [Conférence de Daniel Perr
 
 _Déniché sur le compte Twitter de <http://www.stevenstrogatz.com/>_ 
 
-![GrandOral/images/troie.jpeg]
+![cheval de Troie](GrandOral/images/troie.jpeg)
