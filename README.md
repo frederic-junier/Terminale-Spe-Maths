@@ -195,3 +195,10 @@ Plus généralement sur le nombres premiers, voir la [Conférence de Daniel Perr
   * Sur le site de Serge Mehl :  <http://serge.mehl.free.fr/chrono/BernoulliJean.html#harmo>
   * Analogie de la série harmonique avec certains proverbes : <http://images.math.cnrs.fr/Serie-harmonique-et-sagesse-populaire>
 
+
+
+
+
+_Déniché sur le compte Twitter de <http://www.stevenstrogatz.com/>_ 
+
+![GrandOral/images/troie.jpeg]
