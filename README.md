@@ -45,6 +45,7 @@ Mon [diaporama de présentation](GrandOral/Presentation-Grand-Oral.pdf) : rien d
    * [document de synthèse d'un IPR de l'académie de Versailles](https://euler.ac-versailles.fr/IMG/pdf/pistes-grand-oral-huet-version-sans_programme.pdf)
    * [encore un document de l'académie de Versailles](GrandOral/oral_maths_euler.pdf)
    * [document de l'inspection générale](GrandOral/grand_oral_inspection_générale.pdf)
+   * [un document partagé par un collègue du lycée militaire de Saint-Cyr](https://maths-stcyr.jimdofree.com/terminale-sp%C3%A9cialit%C3%A9/)
 * Le site [Images des mathématiques](http://images.math.cnrs.fr/), consulter en particulier la rubrique [Pour aller moins loin](http://images.math.cnrs.fr/-Ressources-pedagogiques-pour-aller-moins-loin-.html).
   * Croissances cumulées : <http://images.math.cnrs.fr/La-loi-de-la-croissance-cumulee.html> thèmes logarithmes, suites ....
   * A propos des différentes preuves du théorème de Pythagore : <http://images.math.cnrs.fr/Encore-une-preuve-du-theoreme-de-Pythagore.html>
