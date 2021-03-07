@@ -203,7 +203,7 @@ Plus généralement sur le nombres premiers, voir la [Conférence de Daniel Perr
     *  [Video sur la planche de Galton](https://youtu.be/LGfGZmi3mYY)
     *  [Article sur la loi des grands nombres ou loi normale par Jean-Pierre Kahane](https://images.math.cnrs.fr/La-courbe-en-cloche)
     *  [Article sur les sondages et les intervalles de confiance](http://images.math.cnrs.fr/La-fourchette-d-un-sondage)
-
+* Ordre de grandeur, notations, suites : le nombre de Graham et la notation fléchée de Knuth : <https://blogdemaths.wordpress.com/2021/03/07/quels-sont-les-derniers-chiffres-du-nombre-de-graham-1ere-partie-le-dernier-chiffre/>
 
 
 
