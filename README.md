@@ -199,7 +199,10 @@ Plus généralement sur le nombres premiers, voir la [Conférence de Daniel Perr
    * probabilités conditionnelles, problème historique, _le problème des partis_  raconté par Bernard Ycart <https://hist-math.fr/pacioli-auto#>
    * probabilités conditionnelles, espérance : <hhttps://www.franceculture.fr/conferences/universite-de-nantes/pourquoi-lappat-du-gain-lemporte-t-il-sur-le-risque-de-perdre?utm_medium=Social&utm_source=Twitter#Echobox=1614608976>, à mettre en lien avec le paradoxe de St Petersbourg.
 * Ordre de grandeur et explosion combinatoire, "Mélangez un jeu de cartes et bien le mélange obtenu est probablement unique dans l'histoire de l'humanité", excellente video de Jean-Baptiste Aubun  sur les ordres de grandeur." <http://video.math.cnrs.fr/ordres-de-grandeur/>
-
+* A propos de la loi normale (courbe en cloche), des intervalles de fluctuation, de confiance :
+    *  [Video sur la planche de Galton](https://youtu.be/LGfGZmi3mYY)
+    *  [Article sur la loi des grands bombres ou loi normale par Jean-Pierre Kahane](https://images.math.cnrs.fr/La-courbe-en-cloche)
+    *  [Article sur les sondages et les intervalles de confiance](http://images.math.cnrs.fr/La-fourchette-d-un-sondage)
 
 
 
