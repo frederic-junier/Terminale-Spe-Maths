@@ -129,8 +129,11 @@ Sites ressources :
 * [Sujets 2020/2021](GrandOral/exposés/sujets-exposés.md)
 
 
+### Méthodologie 
 
-### Des idées :
+* Définir une problématique : le [questionnement quintilien](https://www.reseau-canope.fr/savoirscdi/fileadmin/fichiers_auteurs/cdi_outil_pedagogique/Dispositifs_d_aide/D%C3%A9limiter-le-sujet.pdf)
+
+### Des idées de sujets
 
 * Sport : comment prédire le classement final d'un championnat de foot ?  <https://www.statsperform.com/resource/why-2021-could-be-the-year-of-change-in-european-football/>
 * Modélisation d'une épidémie :
