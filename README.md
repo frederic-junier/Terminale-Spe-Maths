@@ -39,7 +39,7 @@ Mon [diaporama de présentation](GrandOral/Presentation-Grand-Oral.pdf) : rien d
 
 ### Ressources des éditeurs :
 
-* [Éditions Hatier](https://pdf.editions-hatier.fr/Variations_maths_GrandOral.pdf)
+* [Éditions Hatier collection Variations](https://pdf.editions-hatier.fr/Variations_maths_GrandOral.pdf)
 
 
 ### Sitographie :
