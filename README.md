@@ -37,6 +37,11 @@ Le sujet propose :
 
 Mon [diaporama de présentation](GrandOral/Presentation-Grand-Oral.pdf) : rien d'original, j'ai compilé des extraits de la page Eduscol et du document de synthèse de l'inspection générale
 
+### Ressources des éditeurs :
+
+* [Éditions Hatier](https://pdf.editions-hatier.fr/Variations_maths_GrandOral.pdf)
+
+
 ### Sitographie :
 
 * Un document à lire pour mieux comprendre la recherche en mathématiques : [Conférence de Daniel Perrin](GranOral/Daniel_Perrin.pdf) 
