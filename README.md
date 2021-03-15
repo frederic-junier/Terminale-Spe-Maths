@@ -214,6 +214,8 @@ Plus généralement sur le nombres premiers, voir la [Conférence de Daniel Perr
 * Ordre de grandeur, notations, suites : le nombre de Graham et la notation fléchée de Knuth : <https://blogdemaths.wordpress.com/2021/03/07/quels-sont-les-derniers-chiffres-du-nombre-de-graham-1ere-partie-le-dernier-chiffre/>
 * Imagerie médicale, tomographie, ressource conseillée par @matchretien
    * <https://damiengeneste.github.io/tomo-web/>
+* [Blockchain / Bitcoin](bitcoin.md)
+   
 
 
 
