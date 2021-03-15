@@ -5,7 +5,7 @@ Merci à tous ceux qui ont partagé leurs sources :
 
 * Article Wikipedia :  <https://fr.wikipedia.org/wiki/Bitcoin>
 * Ressources de Pascal Lafourcade maître de conférences à l'université de Clermont et chercheur en sécurité informatique :
-  * [Conférence video de Pascal Lafourcade donné à Maths en Scène 2020](https://youtu.be/aG4rht0qd48). Merci [@Scienticfiz](https://www.youtube.com/channel/UCIUbSRKVVOpWl_xB3soLU1g)
+  * [Conférence video de Pascal Lafourcade donné à Maths en Scène 2020](https://youtu.be/aG4rht0qd48). Merci [@Scienticfiz](https://www.youtube.com/channel/UCIUbSRKVVOpWl_xB3soLU1g) et [@Pascalafourcade](https://twitter.com/Pascalafourcade)
   * Livre chez Dunod [LES BLOCKCHAINS EN 50 QUESTIONS](https://www.dunod.com/sites/default/files/atoms/files/9782100779246/Feuilletage.pdf)
 * Ressources proposées par [NSI@Moliere](https://twitter.com/NSIMoliere)  :
   *  le livre Blanc de la Block Chain en pdf libre 
