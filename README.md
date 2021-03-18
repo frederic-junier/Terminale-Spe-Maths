@@ -37,6 +37,11 @@ Le sujet propose :
 
 Mon [diaporama de présentation](GrandOral/Presentation-Grand-Oral.pdf) : rien d'original, j'ai compilé des extraits de la page Eduscol et du document de synthèse de l'inspection générale
 
+### Ressources des éditeurs :
+
+* [Éditions Hatier collection Variations](https://pdf.editions-hatier.fr/Variations_maths_GrandOral.pdf)
+
+
 ### Sitographie :
 
 * Un document à lire pour mieux comprendre la recherche en mathématiques : [Conférence de Daniel Perrin](GranOral/Daniel_Perrin.pdf) 
@@ -45,6 +50,7 @@ Mon [diaporama de présentation](GrandOral/Presentation-Grand-Oral.pdf) : rien d
    * [document de synthèse d'un IPR de l'académie de Versailles](https://euler.ac-versailles.fr/IMG/pdf/pistes-grand-oral-huet-version-sans_programme.pdf)
    * [encore un document de l'académie de Versailles](GrandOral/oral_maths_euler.pdf)
    * [document de l'inspection générale](GrandOral/grand_oral_inspection_générale.pdf)
+   * [un document partagé par un collègue du lycée militaire de Saint-Cyr](https://maths-stcyr.jimdofree.com/terminale-sp%C3%A9cialit%C3%A9/)
 * Le site [Images des mathématiques](http://images.math.cnrs.fr/), consulter en particulier la rubrique [Pour aller moins loin](http://images.math.cnrs.fr/-Ressources-pedagogiques-pour-aller-moins-loin-.html).
   * Croissances cumulées : <http://images.math.cnrs.fr/La-loi-de-la-croissance-cumulee.html> thèmes logarithmes, suites ....
   * A propos des différentes preuves du théorème de Pythagore : <http://images.math.cnrs.fr/Encore-une-preuve-du-theoreme-de-Pythagore.html>
@@ -123,8 +129,11 @@ Sites ressources :
 * [Sujets 2020/2021](GrandOral/exposés/sujets-exposés.md)
 
 
+### Méthodologie 
 
-### Des idées :
+* Définir une problématique : le [questionnement quintilien](https://www.reseau-canope.fr/savoirscdi/fileadmin/fichiers_auteurs/cdi_outil_pedagogique/Dispositifs_d_aide/D%C3%A9limiter-le-sujet.pdf)
+
+### Des idées de sujets
 
 * Sport : comment prédire le classement final d'un championnat de foot ?  <https://www.statsperform.com/resource/why-2021-could-be-the-year-of-change-in-european-football/>
 * Modélisation d'une épidémie :
@@ -198,8 +207,15 @@ Plus généralement sur le nombres premiers, voir la [Conférence de Daniel Perr
    * probabilités conditionnelles, problème historique, _le problème des partis_  raconté par Bernard Ycart <https://hist-math.fr/pacioli-auto#>
    * probabilités conditionnelles, espérance : <hhttps://www.franceculture.fr/conferences/universite-de-nantes/pourquoi-lappat-du-gain-lemporte-t-il-sur-le-risque-de-perdre?utm_medium=Social&utm_source=Twitter#Echobox=1614608976>, à mettre en lien avec le paradoxe de St Petersbourg.
 * Ordre de grandeur et explosion combinatoire, "Mélangez un jeu de cartes et bien le mélange obtenu est probablement unique dans l'histoire de l'humanité", excellente video de Jean-Baptiste Aubun  sur les ordres de grandeur." <http://video.math.cnrs.fr/ordres-de-grandeur/>
-
-
+* A propos de la loi normale (courbe en cloche), des intervalles de fluctuation, de confiance :
+    *  [Video sur la planche de Galton](https://youtu.be/LGfGZmi3mYY)
+    *  [Article sur la loi des grands nombres ou loi normale par Jean-Pierre Kahane](https://images.math.cnrs.fr/La-courbe-en-cloche)
+    *  [Article sur les sondages et les intervalles de confiance](http://images.math.cnrs.fr/La-fourchette-d-un-sondage)
+* Ordre de grandeur, notations, suites : le nombre de Graham et la notation fléchée de Knuth : <https://blogdemaths.wordpress.com/2021/03/07/quels-sont-les-derniers-chiffres-du-nombre-de-graham-1ere-partie-le-dernier-chiffre/>
+* Imagerie médicale, tomographie, ressource conseillée par @matchretien
+   * <https://damiengeneste.github.io/tomo-web/>
+* [Blockchain / Bitcoin](bitcoin.md)
+   
 
 
 
