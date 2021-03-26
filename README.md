@@ -215,7 +215,8 @@ Plus généralement sur le nombres premiers, voir la [Conférence de Daniel Perr
 * Imagerie médicale, tomographie, ressource conseillée par @matchretien
    * <https://damiengeneste.github.io/tomo-web/>
 * [Blockchain / Bitcoin](bitcoin.md)
-   
+* Nombres premiers et hasard : <http://images.math.cnrs.fr/Les-nombres-premiers-respectent-ils-la-parite.html>    => un bon sujet avec possibilité de proposer un programme simple de décompte
+* Histoire de la notion de fonction, un article de Bernard Ycart <http://revue.sesamath.net/spip.php?article1414>
 
 
 
