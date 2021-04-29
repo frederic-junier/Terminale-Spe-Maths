@@ -59,6 +59,7 @@ Mon [diaporama de présentation](GrandOral/Presentation-Grand-Oral.pdf) : rien d
   
 * Le site Culture Maths  <https://culturemath.ens.fr/>
 * Le portail [Eduscol des mathématiques](https://eduscol.education.fr/maths/)
+* Un site spécial grand oral proposé par l'académie de Grenoble <https://oral.web.ac-grenoble.fr/>
 
 * Le site du livre [Le Guide du Grand Oral](https://grand-oral.lerobert.com/9782321015383) de Sthéphane de Freitas, créateur de la méthode "Porter sa voix", fondateur du concours d'éloquence qui a donné lieu au film "A voix haute". Des ressources méthodologiques et par disciplines : exempel en mathématiques <https://grand-oral.lerobert.com/partage/a/2032389/chapitre-les-ressources-numeriques-pour-les-mathematiques>
 * La plateforme de l'académie de Lyon dédiée à la [culture scientifique](http://culture-scientifique-technique.enseigne.ac-lyon.fr/spip/).
