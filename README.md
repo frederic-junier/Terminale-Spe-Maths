@@ -218,7 +218,7 @@ Plus généralement sur le nombres premiers, voir la [Conférence de Daniel Perr
 * [Blockchain / Bitcoin](bitcoin.md)
 * Nombres premiers et hasard : <http://images.math.cnrs.fr/Les-nombres-premiers-respectent-ils-la-parite.html>    => un bon sujet avec possibilité de proposer un programme simple de décompte
 * Histoire de la notion de fonction, un article de Bernard Ycart <http://revue.sesamath.net/spip.php?article1414>
-
+* Du discret au continu : une ressource sur la construction  de la fonction exponentielle par la méthode d'Euler avec preuve de la dérivabilité <https://culturemath.ens.fr/thematiques/didactique/construire-la-fonction-exponentielle-en-premiere>
 
 
 _Déniché sur le compte Twitter de <http://www.stevenstrogatz.com/>_ 
