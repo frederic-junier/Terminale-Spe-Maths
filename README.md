@@ -44,6 +44,7 @@ Mon [diaporama de présentation](GrandOral/Presentation-Grand-Oral.pdf) : rien d
 
 ### Sitographie :
 
+* Des exemples de questions, un Genially de Marc Aurélien Chardine <https://view.genial.ly/6037545a06c0a40d9d0aff62/interactive-content-questions-grand-oral-spe-scientifiques>
 * Un document à lire pour mieux comprendre la recherche en mathématiques : [Conférence de Daniel Perrin](GranOral/Daniel_Perrin.pdf) 
 * Des documents avec une présentation de l'épreuve et des pistes de sujets :
    * la page Eduscol sur le grand oral <https://eduscol.education.fr/729/presentation-du-grand-oral>
