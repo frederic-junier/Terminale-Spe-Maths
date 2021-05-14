@@ -92,6 +92,13 @@ Mon [diaporama de présentation](GrandOral/Presentation-Grand-Oral.pdf) : rien d
 
 ### Des videos en ligne 
 
+
+* Ressources méthodologiques :
+  * Sur Lumni  :    
+   * <https://www.lumni.fr/programme/les-petits-tutos-du-grand-oral>  :  pas très convaincu
+   * <https://www.lumni.fr/dossier/preparer-son-oral>   : un peu démagogique (la méthode Coué) mais quelques bons conseils
+  * Sur le site de l'association Trouve ta voie <http://prepagrandoraldubac.fr>   de nombreuses videos, j'en ai visionné quelques unes, les conseils sont plutot pertinents et il est intéressant d'observer la gestuellle des "formateurs"
+
 * [Conférence de Gérard Berry sur la révolution informatique dans les sciences](https://www.college-de-france.fr/site/gerard-berry/course-2015-01-28-16h00.htm)
 * Chaînes de videos en ligne :
   * Pour découvrir à travers une petite  approche historique (par des collégiens mais très bien)  : [Scienticfiz](https://www.youtube.com/channel/UCIUbSRKVVOpWl_xB3soLU1g)
