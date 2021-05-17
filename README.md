@@ -44,6 +44,7 @@ Mon [diaporama de présentation](GrandOral/Presentation-Grand-Oral.pdf) : rien d
 
 ### Sitographie :
 
+* Des exemples de questions, un Genially de Marc Aurélien Chardine <https://view.genial.ly/6037545a06c0a40d9d0aff62/interactive-content-questions-grand-oral-spe-scientifiques>
 * Un document à lire pour mieux comprendre la recherche en mathématiques : [Conférence de Daniel Perrin](GranOral/Daniel_Perrin.pdf) 
 * Des documents avec une présentation de l'épreuve et des pistes de sujets :
    * la page Eduscol sur le grand oral <https://eduscol.education.fr/729/presentation-du-grand-oral>
@@ -90,6 +91,13 @@ Mon [diaporama de présentation](GrandOral/Presentation-Grand-Oral.pdf) : rien d
 * Le [Dictionnaire décalé des mathématiques](https://www.apprendre-en-ligne.net/blog/index.php/2021/02/11/3939-dictionnaire-decale-des-mathematiques) d'Elisabeth Busser et Bertrand Hauchecorne avec une préface de Cédric Villani.
 
 ### Des videos en ligne 
+
+
+* Ressources méthodologiques :
+  * Sur Lumni  :    
+    * <https://www.lumni.fr/programme/les-petits-tutos-du-grand-oral>  : amusant, quelques bons conseils
+    * <https://www.lumni.fr/dossier/preparer-son-oral>   : un peu démagogique (la méthode Coué) mais quelques bons conseils
+  * Sur le site de l'association Trouve ta voie <http://prepagrandoraldubac.fr>   quelques, j'en ai visionné quelques unes, les conseils sont plutot pertinents et il est intéressant d'observer la gestuellle des "formateurs", cependant beaucoup de videos ne sont pas librement accessibles
 
 * [Conférence de Gérard Berry sur la révolution informatique dans les sciences](https://www.college-de-france.fr/site/gerard-berry/course-2015-01-28-16h00.htm)
 * Chaînes de videos en ligne :
