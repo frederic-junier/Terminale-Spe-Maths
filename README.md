@@ -120,6 +120,11 @@ On pourra pointer la vidéo sur la modélisation de la propagation du Coronaviru
   * De la recherche fondamentale aux applications inattendues : courbure de Riemmann à la théorie de la relativité et aux GPS, distribution statistique des zéros de fonction zeta de Riemman et niveaux d'énergie des atomes
   * Formule de Boltzmann, entropie $s= k log(w)$ apprivoiser le hasard (Galton, loi des erreurs de Laplace etc ...)
 
+
+### Podcasts 
+
+* franceculture  consacre l'une de ses émissions au fameux théorème de Pythagore ! Son histoire, son impact en géométrie et arithmétique : tout y est abordé ! <https://www.franceculture.fr/emissions/la-methode-scientifique/la-methode-scientifique-emission-du-jeudi-29-avril-2021>
+ 
 ### Histoire des mathématiques 
 
 Sites ressources :
